@@ -1,0 +1,48 @@
+[
+  {
+    "freq": 20,
+    "req": 500,
+    "n": 4288,
+    "position_under_max": 0.7613380203152647,
+    "velocity_under_max": 0.9270982840578473,
+    "position_under_p99": 0.3585265210192004,
+    "velocity_under_p99": 0.35173963112710993,
+    "off_on": 0,
+    "on_off": 0,
+    "mismatched_starts": []
+  },
+  {
+    "freq": 20,
+    "req": 1000,
+    "n": 4288,
+    "position_under_max": 0.8080385416821841,
+    "velocity_under_max": 0.9373544132521325,
+    "position_under_p99": 0.43094297003933596,
+    "velocity_under_p99": 0.4706643643305878,
+    "off_on": 0,
+    "on_off": 0,
+    "mismatched_starts": []
+  },
+  {
+    "freq": 20,
+    "req": 1500,
+    "n": 4288,
+    "position_under_max": 0.7653609737463467,
+    "velocity_under_max": 1.0050189738288022,
+    "position_under_p99": 0.41357256266107206,
+    "velocity_under_p99": 0.49672809277546975,
+    "off_on": 1,
+    "on_off": 0,
+    "mismatched_starts": [
+      [
+        1500.0,
+        490.0,
+        53.0,
+        0.170732594151113,
+        0.22782559341483027,
+        1.0,
+        0.0
+      ]
+    ]
+  }
+]

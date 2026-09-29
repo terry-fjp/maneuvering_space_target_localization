@@ -1,0 +1,38 @@
+[
+  {
+    "freq": 15,
+    "req": 500,
+    "n": 4288,
+    "position_under_max": 0.6913671196425891,
+    "velocity_under_max": 0.8627378900588669,
+    "position_under_p99": 0.35308670552876714,
+    "velocity_under_p99": 0.34838317894506493,
+    "off_on": 0,
+    "on_off": 0,
+    "mismatched_starts": []
+  },
+  {
+    "freq": 15,
+    "req": 1000,
+    "n": 4288,
+    "position_under_max": 0.63924594261505,
+    "velocity_under_max": 0.8135961550228412,
+    "position_under_p99": 0.3904433155069694,
+    "velocity_under_p99": 0.4401177720571963,
+    "off_on": 0,
+    "on_off": 0,
+    "mismatched_starts": []
+  },
+  {
+    "freq": 15,
+    "req": 1500,
+    "n": 4288,
+    "position_under_max": 0.5617977344676781,
+    "velocity_under_max": 0.8753469793225034,
+    "position_under_p99": 0.3883923456653174,
+    "velocity_under_p99": 0.4473036944257776,
+    "off_on": 0,
+    "on_off": 0,
+    "mismatched_starts": []
+  }
+]
