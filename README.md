@@ -1,8 +1,8 @@
 # MSC-GP: Maneuvering Space Target Tracking and Laser Ranging Control
 
-Code and frozen numerical records accompanying **Multiscale Consistency-Driven Tracking and Laser Ranging Control for Maneuvering Space Targets**, by Jiapeng Feng, Shihan Dong, Yuqing Li, Sensen Guo, Haiying Hu, and Jun Zhou. Intended journal: *Applied Sciences*, Aerospace Science and Engineering.
+Code and compact numerical records accompanying **Multiscale Consistency-Driven Tracking and Laser Ranging Control for Maneuvering Space Targets**, by Jiapeng Feng, Shihan Dong, Yuqing Li, Sensen Guo, Haiying Hu, and Jun Zhou. Intended journal: *Applied Sciences*, Aerospace Science and Engineering.
 
-Scientific configuration: **AS-MSCGP-20260929-R2**. Packaging revision: **upload1** (2026-09-30). The manuscript is unpublished; no article DOI or journal acceptance is claimed. Intended repository: https://github.com/terry-fjp/maneuvering_space_target_localization . This local preparation does not assert that the URL is already populated.
+Scientific configuration: **AS-MSCGP-20260929-R2**. Packaging revision: **github-slim1** (2026-09-30). This repository contains the implementation, frozen configuration, compact summaries, and two 5 Hz reference files for fresh core checks. The full per-trajectory and plotting records are distributed separately; see [docs/FULL_DATA.md](docs/FULL_DATA.md). The manuscript is unpublished; no article DOI or journal acceptance is claimed.
 
 **Rights:** publicly viewable for review, **not open source**. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) before reuse.
 
@@ -28,10 +28,9 @@ python -m pip install -r requirements.txt
 export OPENBLAS_NUM_THREADS=1
 python scripts/verify_integrity.py
 python analysis/thrust_review_v12/smoke.py
-python scripts/verify_results.py
 ```
 
-The integrity command checks every distributed file. The smoke check exercises the filter, IMM and coordinate invariance. The record check independently recomputes 134 aggregate groups from 46,464 per-trajectory records; it does not claim to rerun simulation or inspect omitted high-rate epochs.
+The integrity command checks every distributed file. The smoke check exercises the filter, IMM and coordinate invariance. Restoring the full-data attachment additionally enables the 46,464-record aggregate check and complete plotting workflow.
 
 ## Fresh simulation from frozen initial states
 
@@ -57,27 +56,24 @@ Representative **5 Hz, one seed, 1000 m/100 m/s** results follow. They are not t
 | Held-out | RIT-fine | 111.668114 | 1275.555193 | 1/64 | 21.862500 |
 | Held-out | Constant | 107.112447 | 1050.484224 | 1/64 | 22.240625 |
 
-## Results, figures and full reproduction
+## Compact results and full-data attachment
 
-```bash
-python scripts/plot_all.py
-```
+Compact published summaries and standalone table sources are included. Large development sweeps, complete per-trajectory records, and plotting NPZ files are intentionally omitted from the Git repository. Their expected paths and the capabilities they restore are listed in [docs/FULL_DATA.md](docs/FULL_DATA.md).
 
-This regenerates all 11 manuscript figures under `output/latex/applsci_submission_en/figures/` and supporting standalone tables. Figures are not PDF manuscript pages; the public package excludes MDPI templates and template-formatted manuscripts. English figure labels use Matplotlib's DejaVu Sans.
+After restoring the full-data attachment at the repository root, run `python scripts/verify_results.py` to recompute 134 aggregate groups from 46,464 trajectory records and `python scripts/plot_all.py` to regenerate all 11 manuscript figures. These checks do not claim external independent replication or onboard timing validation.
 
 See [docs/REPRODUCING.md](docs/REPRODUCING.md) for the full claim-to-command map, development/validation separation, optional high-rate checks, and omitted-cache regeneration. [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) describes inputs and record fields. [docs/RELEASE_NOTES.md](docs/RELEASE_NOTES.md) lists presentation-only and check-reporting changes made for distribution. [docs/LOCAL_VALIDATION.json](docs/LOCAL_VALIDATION.json) records package checks actually run.
 
-The complete new-condition tables are in `analysis/applsci_revision_20260929/SUPPLEMENTARY_RESULTS.md`; main pooled statistics are in `analysis/thrust_review_v12/statistics/`. All failed trajectories and competitive baseline results are retained. Fixed additive margins can use less range time; IMM often has lower RMSE; outage overlap can cause violations. The work does not establish universal MSC-GP superiority.
+The complete new-condition tables are in `analysis/applsci_revision_20260929/SUPPLEMENTARY_RESULTS.md`; compact pooled statistics are in `analysis/thrust_review_v12/statistics/`. Full failed-trajectory and competitive-baseline records are in the separate data attachment. Fixed additive margins can use less range time; IMM often has lower RMSE; outage overlap can cause violations. The work does not establish universal MSC-GP superiority.
 
 ## Repository layout
 
 | Path | Role |
 |---|---|
-| `analysis/thrust_review_v12/` | Frozen main implementation, calibration, target states, configurations, per-trajectory results and statistics |
+| `analysis/thrust_review_v12/` | Frozen main implementation, calibration, target states, configurations, compact statistics and two core reference files |
 | `analysis/applsci_revision_20260929/` | Guard alternatives, intervention decomposition, outage phases and signed forecasts |
 | `analysis/applsci_submission_en/reproduce_core.py` | Fresh original/held-out simulation check |
 | `analysis/manuscript_submission_en/` | English standalone figure builders |
 | `output/latex/applsci_submission_en/tables/` | Standalone scientific table sources; no MDPI class or manuscript |
-| `scripts/` | Integrity, aggregate checks and figure regeneration |
+| `scripts/` | Integrity check plus full-data aggregate and figure entry points |
 | `docs/` | Reproduction, data definitions, provenance and local validation |
-
