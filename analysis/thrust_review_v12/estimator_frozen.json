@@ -1,0 +1,47 @@
+{
+  "EKF": 0.01,
+  "IMM-EKF": 0.25,
+  "candidates": [
+    {
+      "name": "EKF",
+      "q": 1e-06,
+      "rmse": 511.2584656608532
+    },
+    {
+      "name": "EKF",
+      "q": 0.0001,
+      "rmse": 170.01250935159845
+    },
+    {
+      "name": "EKF",
+      "q": 0.01,
+      "rmse": 67.19472339017759
+    },
+    {
+      "name": "EKF",
+      "q": 1,
+      "rmse": 76.20731804374743
+    },
+    {
+      "name": "IMM-EKF",
+      "q": 0.25,
+      "rmse": 64.28924503013702
+    },
+    {
+      "name": "IMM-EKF",
+      "q": 1,
+      "rmse": 65.96499011806125
+    },
+    {
+      "name": "IMM-EKF",
+      "q": 4,
+      "rmse": 72.18668121101015
+    }
+  ],
+  "rule": "minimum pooled development position RMSE over three tasks and both fixed measurement sequences",
+  "source_sha256": {
+    "estimators.py": "b3ad4d36c3219dbca00b4f6cbc2fb02c067e27f853b87614521acf6da43c1373",
+    "core.py": "ada63bdc510e206c1a15ecb185c67875957ce8b2c41c3f07fef993c3a82a6e55",
+    "engine.py": "f81a9e345ce2c53e4e31c921cc2176361536ff5a37689172e00dfe9475e92a79"
+  }
+}

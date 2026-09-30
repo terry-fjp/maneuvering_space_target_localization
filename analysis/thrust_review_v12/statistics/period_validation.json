@@ -1,0 +1,1262 @@
+[
+  {
+    "dataset": "original",
+    "req": 500,
+    "name": "individual-500-0.0",
+    "period": 42,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 48.817810928825885,
+    "velocity_rmse": 2.4298651971101544,
+    "position_peak": 542.753521631167,
+    "velocity_peak": 20.8893120435592,
+    "bad_arcs": 1,
+    "bad_fraction": 1.943407960199005e-05,
+    "longest_bad": 2.5,
+    "laser_time": 32.90208333333333,
+    "laser_all_time": 62.89427083333333,
+    "position_coverage": 0.9233737562189055,
+    "velocity_coverage": 0.8468143656716419,
+    "event_position_rmse": 45.088132237719606,
+    "event_velocity_rmse": 2.683038275089547,
+    "event_position_peak_mean": 80.04250050560253,
+    "position_difference": -8.93976382300955,
+    "position_ci": [
+      -10.434957924346673,
+      -7.434138579322716
+    ],
+    "velocity_difference": -0.20032536218294217,
+    "velocity_ci": [
+      -0.2458212328425738,
+      -0.15520284538804063
+    ],
+    "time_difference": 3.2161458333333357,
+    "time_ci": [
+      2.929674479166653,
+      3.5047265624999753
+    ],
+    "saving": -9.774900272272525,
+    "saving_ci": [
+      -10.368397426802153,
+      -9.152920881109322
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 500,
+    "name": "individual-500-0.25",
+    "period": 41,
+    "phase": 0.25,
+    "n": 192,
+    "position_rmse": 48.67161049473246,
+    "velocity_rmse": 2.442134914356041,
+    "position_peak": 520.7748152037441,
+    "velocity_peak": 21.287192056325843,
+    "bad_arcs": 1,
+    "bad_fraction": 7.77363184079602e-06,
+    "longest_bad": 1.0,
+    "laser_time": 32.86041666666667,
+    "laser_all_time": 62.85260416666667,
+    "position_coverage": 0.9202884017412934,
+    "velocity_coverage": 0.8431397699004975,
+    "event_position_rmse": 43.7360542121907,
+    "event_velocity_rmse": 2.670135894607772,
+    "event_position_peak_mean": 76.73984197803091,
+    "position_difference": -8.79356338891612,
+    "position_ci": [
+      -10.533070601892254,
+      -7.12865457057266
+    ],
+    "velocity_difference": -0.21259507942882916,
+    "velocity_ci": [
+      -0.2681367420930533,
+      -0.1572133186971913
+    ],
+    "time_difference": 3.257812500000007,
+    "time_ci": [
+      2.9666536458333073,
+      3.542187499999976
+    ],
+    "saving": -9.914093704431636,
+    "saving_ci": [
+      -10.505258930509351,
+      -9.28168747443137
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 500,
+    "name": "individual-500-0.5",
+    "period": 39,
+    "phase": 0.5,
+    "n": 192,
+    "position_rmse": 46.177712432809955,
+    "velocity_rmse": 2.3919598176820775,
+    "position_peak": 433.19983850200833,
+    "velocity_peak": 18.78800264975773,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 33.75,
+    "laser_all_time": 63.7421875,
+    "position_coverage": 0.920575248756219,
+    "velocity_coverage": 0.8436054104477612,
+    "event_position_rmse": 42.83266660836746,
+    "event_velocity_rmse": 2.6501419962047326,
+    "event_position_peak_mean": 72.70180673275199,
+    "position_difference": -6.299665326993612,
+    "position_ci": [
+      -7.817103671814268,
+      -4.852640287170738
+    ],
+    "velocity_difference": -0.16241998275486536,
+    "velocity_ci": [
+      -0.2123234061520242,
+      -0.11360569908412944
+    ],
+    "time_difference": 2.36822916666668,
+    "time_ci": [
+      2.0494531250000048,
+      2.6797135416666666
+    ],
+    "saving": -7.016975308642004,
+    "saving_ci": [
+      -7.713834388658623,
+      -6.264509138373951
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 500,
+    "name": "individual-500-0.75",
+    "period": 43,
+    "phase": 0.75,
+    "n": 192,
+    "position_rmse": 50.740994983166104,
+    "velocity_rmse": 2.4707950416388855,
+    "position_peak": 640.8739055149704,
+    "velocity_peak": 23.299783836410306,
+    "bad_arcs": 1,
+    "bad_fraction": 5.208333333333334e-05,
+    "longest_bad": 6.7,
+    "laser_time": 32.9375,
+    "laser_all_time": 62.9296875,
+    "position_coverage": 0.9213316231343284,
+    "velocity_coverage": 0.8479858519900497,
+    "event_position_rmse": 47.2635798139156,
+    "event_velocity_rmse": 2.7303352596736516,
+    "event_position_peak_mean": 83.58231688260848,
+    "position_difference": -10.862947877349782,
+    "position_ci": [
+      -12.775501239751252,
+      -9.104278367825062
+    ],
+    "velocity_difference": -0.24125520671167333,
+    "velocity_ci": [
+      -0.29942323369410506,
+      -0.18864104165445722
+    ],
+    "time_difference": 3.180729166666673,
+    "time_ci": [
+      2.903098958333329,
+      3.4526171875
+    ],
+    "saving": -9.65686274509805,
+    "saving_ci": [
+      -10.219247868709516,
+      -9.065950122348582
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 500,
+    "name": "joint-500-0",
+    "period": 35,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 42.71762075011086,
+    "velocity_rmse": 2.3177872447714396,
+    "position_peak": 426.97271428339513,
+    "velocity_peak": 18.72591958186839,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 35.864062499999996,
+    "laser_all_time": 65.85625,
+    "position_coverage": 0.9208582089552239,
+    "velocity_coverage": 0.8408776430348258,
+    "event_position_rmse": 42.16401039171536,
+    "event_velocity_rmse": 2.6342244396561307,
+    "event_position_peak_mean": 72.82217464388457,
+    "position_difference": -2.839573644294525,
+    "position_ci": [
+      -4.142706126579227,
+      -1.6589142397823067
+    ],
+    "velocity_difference": -0.08824740984422696,
+    "velocity_ci": [
+      -0.12618439730090494,
+      -0.051470166053336396
+    ],
+    "time_difference": 0.2541666666666629,
+    "time_ci": [
+      -0.026054687500018756,
+      0.5416927083333383
+    ],
+    "saving": -0.7086945787769139,
+    "saving_ci": [
+      -1.4712670976971003,
+      0.07525961469676311
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1000,
+    "name": "individual-1000-0.0",
+    "period": 71,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 85.07143373518622,
+    "velocity_rmse": 3.0223060939143527,
+    "position_peak": 800.6874330612394,
+    "velocity_peak": 22.10728444575169,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 26.105208333333334,
+    "laser_all_time": 56.09739583333333,
+    "position_coverage": 0.9239707711442785,
+    "velocity_coverage": 0.8520258084577114,
+    "event_position_rmse": 61.428865420166645,
+    "event_velocity_rmse": 3.0195820893500542,
+    "event_position_peak_mean": 98.93165893442132,
+    "position_difference": 9.882126876098141,
+    "position_ci": [
+      0.941439673383048,
+      19.043221480124927
+    ],
+    "velocity_difference": -0.06080699317636773,
+    "velocity_ci": [
+      -0.16397964028621817,
+      0.0409751332691378
+    ],
+    "time_difference": -2.6833333333333194,
+    "time_ci": [
+      -2.9343880208333393,
+      -2.440611979166674
+    ],
+    "saving": 10.278919436574707,
+    "saving_ci": [
+      9.015249220375077,
+      11.683332285248992
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1000,
+    "name": "individual-1000-0.25",
+    "period": 74,
+    "phase": 0.25,
+    "n": 192,
+    "position_rmse": 92.61400103136711,
+    "velocity_rmse": 3.1345778259349544,
+    "position_peak": 1437.5474047417322,
+    "velocity_peak": 32.85412239502658,
+    "bad_arcs": 7,
+    "bad_fraction": 0.0003171641791044776,
+    "longest_bad": 20.4,
+    "laser_time": 26.09583333333333,
+    "laser_all_time": 56.08802083333333,
+    "position_coverage": 0.9204034514925373,
+    "velocity_coverage": 0.8474743470149253,
+    "event_position_rmse": 70.19976063043589,
+    "event_velocity_rmse": 3.0284134545659795,
+    "event_position_peak_mean": 127.22319977866131,
+    "position_difference": 2.3395595799172497,
+    "position_ci": [
+      -7.555435962814617,
+      11.673002901883876
+    ],
+    "velocity_difference": -0.17307872519696899,
+    "velocity_ci": [
+      -0.3306373043251073,
+      -0.015927808244794492
+    ],
+    "time_difference": -2.6739583333333314,
+    "time_ci": [
+      -2.9145833333333258,
+      -2.443216145833335
+    ],
+    "saving": 10.246686891266155,
+    "saving_ci": [
+      9.035749721010045,
+      11.606777897318894
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1000,
+    "name": "individual-1000-0.5",
+    "period": 67,
+    "phase": 0.5,
+    "n": 192,
+    "position_rmse": 76.98758078092598,
+    "velocity_rmse": 2.940988613407322,
+    "position_peak": 1038.9745199498623,
+    "velocity_peak": 25.08957012850656,
+    "bad_arcs": 1,
+    "bad_fraction": 1.3215174129353233e-05,
+    "longest_bad": 1.7,
+    "laser_time": 27.219791666666666,
+    "laser_all_time": 57.21197916666667,
+    "position_coverage": 0.9237095771144279,
+    "velocity_coverage": 0.850382462686567,
+    "event_position_rmse": 64.77507366800285,
+    "event_velocity_rmse": 3.0645581586833406,
+    "event_position_peak_mean": 125.09493657116062,
+    "position_difference": 17.965979830358407,
+    "position_ci": [
+      9.487081093172106,
+      25.663794796694837
+    ],
+    "velocity_difference": 0.020510487330663185,
+    "velocity_ci": [
+      -0.10791547509458323,
+      0.14902516403898566
+    ],
+    "time_difference": -3.797916666666662,
+    "time_ci": [
+      -4.0317838541666555,
+      -3.577057291666657
+    ],
+    "saving": 13.952776395851652,
+    "saving_ci": [
+      12.640473760877308,
+      15.418427588377066
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1000,
+    "name": "individual-1000-0.75",
+    "period": 73,
+    "phase": 0.75,
+    "n": 192,
+    "position_rmse": 89.83034438499145,
+    "velocity_rmse": 3.098691958882058,
+    "position_peak": 1001.9266265804866,
+    "velocity_peak": 22.10075779389926,
+    "bad_arcs": 1,
+    "bad_fraction": 7.77363184079602e-07,
+    "longest_bad": 0.1,
+    "laser_time": 26.097916666666663,
+    "laser_all_time": 56.09010416666666,
+    "position_coverage": 0.9188790422885571,
+    "velocity_coverage": 0.8512204601990049,
+    "event_position_rmse": 62.60524467362239,
+    "event_velocity_rmse": 3.0310378614854057,
+    "event_position_peak_mean": 105.74375609332444,
+    "position_difference": 5.123216226292939,
+    "position_ci": [
+      -4.6575030826310915,
+      14.869091849261476
+    ],
+    "velocity_difference": -0.13719285814407334,
+    "velocity_ci": [
+      -0.2593381934293917,
+      -0.013834472565931752
+    ],
+    "time_difference": -2.6760416666666664,
+    "time_ci": [
+      -2.9203515624999876,
+      -2.4374869791666636
+    ],
+    "saving": 10.253851680370396,
+    "saving_ci": [
+      8.98379062761358,
+      11.66119515900692
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1000,
+    "name": "joint-1000-0",
+    "period": 58,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 72.4121987054214,
+    "velocity_rmse": 2.920445801228604,
+    "position_peak": 983.0019071101717,
+    "velocity_peak": 29.260192856428652,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 29.130208333333332,
+    "laser_all_time": 59.122395833333336,
+    "position_coverage": 0.9193415733830846,
+    "velocity_coverage": 0.8452472014925373,
+    "event_position_rmse": 57.10503760149091,
+    "event_velocity_rmse": 2.886921324958045,
+    "event_position_peak_mean": 98.25827379756649,
+    "position_difference": 22.54136190586297,
+    "position_ci": [
+      12.945217151220064,
+      32.01336616854616
+    ],
+    "velocity_difference": 0.041053299509380636,
+    "velocity_ci": [
+      -0.06466077639837477,
+      0.15068645738097122
+    ],
+    "time_difference": -5.708333333333336,
+    "time_ci": [
+      -5.95313802083334,
+      -5.473437499999996
+    ],
+    "saving": 19.59592347577329,
+    "saving_ci": [
+      18.093632057915325,
+      21.246592129940723
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1500,
+    "name": "individual-1500-0.0",
+    "period": 110,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 130.4616358443842,
+    "velocity_rmse": 3.3156156322032735,
+    "position_peak": 1825.9746461448742,
+    "velocity_peak": 26.26887319569334,
+    "bad_arcs": 1,
+    "bad_fraction": 0.00010727611940298508,
+    "longest_bad": 13.5,
+    "laser_time": 23.126562500000002,
+    "laser_all_time": 53.11875,
+    "position_coverage": 0.9154026741293532,
+    "velocity_coverage": 0.8491402363184078,
+    "event_position_rmse": 121.02338515353648,
+    "event_velocity_rmse": 3.50755703221307,
+    "event_position_peak_mean": 203.5350556169284,
+    "position_difference": -19.067227539188764,
+    "position_ci": [
+      -28.68587020640761,
+      -9.72963385993915
+    ],
+    "velocity_difference": -0.1608353786129597,
+    "velocity_ci": [
+      -0.2937893273395772,
+      -0.03247519426387421
+    ],
+    "time_difference": -1.5072916666666742,
+    "time_ci": [
+      -1.70729166666667,
+      -1.3145833333333314
+    ],
+    "saving": 6.517577641150407,
+    "saving_ci": [
+      5.486755238488422,
+      7.67427238082146
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1500,
+    "name": "individual-1500-0.25",
+    "period": 100,
+    "phase": 0.25,
+    "n": 192,
+    "position_rmse": 135.19447762162363,
+    "velocity_rmse": 3.4606095138711,
+    "position_peak": 1241.0143057110295,
+    "velocity_peak": 20.699903936512808,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 23.029687499999998,
+    "laser_all_time": 53.021875,
+    "position_coverage": 0.9091200248756218,
+    "velocity_coverage": 0.8447831156716417,
+    "event_position_rmse": 117.91256197555111,
+    "event_velocity_rmse": 3.4855471904279134,
+    "event_position_peak_mean": 194.00364152848886,
+    "position_difference": -23.800069316428164,
+    "position_ci": [
+      -33.98979087596189,
+      -13.319809859534281
+    ],
+    "velocity_difference": -0.3058292602807877,
+    "velocity_ci": [
+      -0.4607520328902128,
+      -0.15527847084590896
+    ],
+    "time_difference": -1.4104166666666735,
+    "time_ci": [
+      -1.6484505208333402,
+      -1.1802083333333397
+    ],
+    "saving": 6.1243413166881755,
+    "saving_ci": [
+      4.9372683892997085,
+      7.429859305416063
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1500,
+    "name": "individual-1500-0.5",
+    "period": 94,
+    "phase": 0.5,
+    "n": 192,
+    "position_rmse": 133.47807103561473,
+    "velocity_rmse": 3.4924422959816006,
+    "position_peak": 1247.359347721541,
+    "velocity_peak": 22.843306431239178,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 24.066145833333334,
+    "laser_all_time": 54.05833333333334,
+    "position_coverage": 0.9107423818407959,
+    "velocity_coverage": 0.8440741604477613,
+    "event_position_rmse": 104.56179864391153,
+    "event_velocity_rmse": 3.381862986467927,
+    "event_position_peak_mean": 175.18233731740077,
+    "position_difference": -22.08366273041929,
+    "position_ci": [
+      -32.268487957939854,
+      -11.516499566798004
+    ],
+    "velocity_difference": -0.3376620423912864,
+    "velocity_ci": [
+      -0.5136454890161273,
+      -0.16289846791671564
+    ],
+    "time_difference": -2.4468750000000057,
+    "time_ci": [
+      -2.6416796875000026,
+      -2.257799479166663
+    ],
+    "saving": 10.167290670244789,
+    "saving_ci": [
+      9.004995606929999,
+      11.496657708548524
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1500,
+    "name": "individual-1500-0.75",
+    "period": 110,
+    "phase": 0.75,
+    "n": 192,
+    "position_rmse": 140.4283562888179,
+    "velocity_rmse": 3.5888036841377806,
+    "position_peak": 1386.8398474011974,
+    "velocity_peak": 22.443026964726595,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 23.217708333333334,
+    "laser_all_time": 53.20989583333333,
+    "position_coverage": 0.9272986629353234,
+    "velocity_coverage": 0.8634141791044776,
+    "event_position_rmse": 121.70755445913113,
+    "event_velocity_rmse": 3.4790331577591798,
+    "event_position_peak_mean": 203.18514579747801,
+    "position_difference": -29.033947983622454,
+    "position_ci": [
+      -37.89686417622744,
+      -19.903978023319215
+    ],
+    "velocity_difference": -0.4340234305474677,
+    "velocity_ci": [
+      -0.5865723827517967,
+      -0.28017174018296115
+    ],
+    "time_difference": -1.5984374999999993,
+    "time_ci": [
+      -1.8041666666666603,
+      -1.4036458333333428
+    ],
+    "saving": 6.884561891515995,
+    "saving_ci": [
+      5.817183218831181,
+      8.096246042304927
+    ]
+  },
+  {
+    "dataset": "original",
+    "req": 1500,
+    "name": "joint-1500-0",
+    "period": 98,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 130.69711615974444,
+    "velocity_rmse": 3.6433984746034462,
+    "position_peak": 1720.589251391313,
+    "velocity_peak": 30.926088388151307,
+    "bad_arcs": 1,
+    "bad_fraction": 5.830223880597015e-05,
+    "longest_bad": 6.1,
+    "laser_time": 24.276041666666668,
+    "laser_all_time": 54.268229166666664,
+    "position_coverage": 0.9288510572139304,
+    "velocity_coverage": 0.8628412624378109,
+    "event_position_rmse": 65.53383618375109,
+    "event_velocity_rmse": 3.0706485310642138,
+    "event_position_peak_mean": 106.81324162361354,
+    "position_difference": -19.30270785454897,
+    "position_ci": [
+      -28.860627630173163,
+      -10.303451985629515
+    ],
+    "velocity_difference": -0.48861822101313246,
+    "velocity_ci": [
+      -0.6688463229714828,
+      -0.31671501472926294
+    ],
+    "time_difference": -2.6567708333333293,
+    "time_ci": [
+      -2.8463541666666714,
+      -2.4718359375000145
+    ],
+    "saving": 10.944003432739747,
+    "saving_ci": [
+      9.791494022226365,
+      12.222546009522018
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 500,
+    "name": "individual-500-0.0",
+    "period": 42,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 50.680555924107736,
+    "velocity_rmse": 2.556104842798003,
+    "position_peak": 685.3249130966391,
+    "velocity_peak": 27.15296553267129,
+    "bad_arcs": 4,
+    "bad_fraction": 0.00015080845771144277,
+    "longest_bad": 9.1,
+    "laser_time": 33.0234375,
+    "laser_all_time": 63.0140625,
+    "position_coverage": 0.9207555970149253,
+    "velocity_coverage": 0.8442218594527363,
+    "event_position_rmse": 46.95123102036269,
+    "event_velocity_rmse": 2.7950495170727288,
+    "event_position_peak_mean": 83.56620100595457,
+    "position_difference": -10.479925726348363,
+    "position_ci": [
+      -12.70490193855106,
+      -8.484651148689885
+    ],
+    "velocity_difference": -0.24486788569033457,
+    "velocity_ci": [
+      -0.3155946201805196,
+      -0.17887908849857337
+    ],
+    "time_difference": 3.389062499999987,
+    "time_ci": [
+      3.1697526041666544,
+      3.6125130208333442
+    ],
+    "saving": -10.262597586941059,
+    "saving_ci": [
+      -10.780933326685506,
+      -9.72287982436875
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 500,
+    "name": "individual-500-0.25",
+    "period": 41,
+    "phase": 0.25,
+    "n": 192,
+    "position_rmse": 49.35545929813881,
+    "velocity_rmse": 2.528581294785796,
+    "position_peak": 580.7754783377757,
+    "velocity_peak": 24.252022032129712,
+    "bad_arcs": 4,
+    "bad_fraction": 0.0001197139303482587,
+    "longest_bad": 5.9,
+    "laser_time": 33.004687499999996,
+    "laser_all_time": 62.995312500000004,
+    "position_coverage": 0.9215570584577114,
+    "velocity_coverage": 0.844717039800995,
+    "event_position_rmse": 46.59215138688785,
+    "event_velocity_rmse": 2.7845332719700684,
+    "event_position_peak_mean": 82.33630344801998,
+    "position_difference": -9.154829100379445,
+    "position_ci": [
+      -11.13799734955698,
+      -7.396733524621454
+    ],
+    "velocity_difference": -0.21734433767812789,
+    "velocity_ci": [
+      -0.27689303480577404,
+      -0.1600995080189186
+    ],
+    "time_difference": 3.4078125000000057,
+    "time_ci": [
+      3.1968749999999986,
+      3.6192838541666714
+    ],
+    "saving": -10.325237892344852,
+    "saving_ci": [
+      -10.80933282432747,
+      -9.846388177311333
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 500,
+    "name": "individual-500-0.5",
+    "period": 39,
+    "phase": 0.5,
+    "n": 192,
+    "position_rmse": 47.050624865128455,
+    "velocity_rmse": 2.467129415731899,
+    "position_peak": 582.335094072018,
+    "velocity_peak": 23.510253489448075,
+    "bad_arcs": 3,
+    "bad_fraction": 9.561567164179104e-05,
+    "longest_bad": 5.9,
+    "laser_time": 34.05260416666667,
+    "laser_all_time": 64.04322916666666,
+    "position_coverage": 0.9201663557213932,
+    "velocity_coverage": 0.8445024875621892,
+    "event_position_rmse": 44.51437605854733,
+    "event_velocity_rmse": 2.7504228713802794,
+    "event_position_peak_mean": 80.52265325388758,
+    "position_difference": -6.849994667369089,
+    "position_ci": [
+      -8.661167277904182,
+      -5.199443666413222
+    ],
+    "velocity_difference": -0.15589245862423073,
+    "velocity_ci": [
+      -0.20855449059325964,
+      -0.10372646073396621
+    ],
+    "time_difference": 2.3598958333333258,
+    "time_ci": [
+      2.1484114583333263,
+      2.568749999999987
+    ],
+    "saving": -6.930147902295758,
+    "saving_ci": [
+      -7.395356932603221,
+      -6.420749211751874
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 500,
+    "name": "individual-500-0.75",
+    "period": 43,
+    "phase": 0.75,
+    "n": 192,
+    "position_rmse": 52.11259852271771,
+    "velocity_rmse": 2.589794898666881,
+    "position_peak": 602.5865581351719,
+    "velocity_peak": 23.631241751446495,
+    "bad_arcs": 8,
+    "bad_fraction": 0.00014536691542288557,
+    "longest_bad": 4.9,
+    "laser_time": 32.94635416666667,
+    "laser_all_time": 62.93697916666667,
+    "position_coverage": 0.9207004042288558,
+    "velocity_coverage": 0.8451865671641791,
+    "event_position_rmse": 47.25431975950353,
+    "event_velocity_rmse": 2.792952420284418,
+    "event_position_peak_mean": 84.9174758880307,
+    "position_difference": -11.911968324958337,
+    "position_ci": [
+      -14.129228826486898,
+      -9.810743312120715
+    ],
+    "velocity_difference": -0.27855794155921254,
+    "velocity_ci": [
+      -0.3527998290383693,
+      -0.20855812461965362
+    ],
+    "time_difference": 3.4661458333333144,
+    "time_ci": [
+      3.233320312499994,
+      3.7078385416666766
+    ],
+    "saving": -10.520574798046,
+    "saving_ci": [
+      -11.141632757002668,
+      -9.932684267447453
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 500,
+    "name": "joint-500-0",
+    "period": 35,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 43.12055956824361,
+    "velocity_rmse": 2.3748930965826935,
+    "position_peak": 549.5665754979458,
+    "velocity_peak": 23.92029712845492,
+    "bad_arcs": 2,
+    "bad_fraction": 1.554726368159204e-05,
+    "longest_bad": 1.7,
+    "laser_time": 35.995312500000004,
+    "laser_all_time": 65.9859375,
+    "position_coverage": 0.9207828047263682,
+    "velocity_coverage": 0.8434219527363185,
+    "event_position_rmse": 42.347267813407285,
+    "event_velocity_rmse": 2.691847570334977,
+    "event_position_peak_mean": 75.49602857070143,
+    "position_difference": -2.919929370484219,
+    "position_ci": [
+      -4.19486902130456,
+      -1.6677747440077058
+    ],
+    "velocity_difference": -0.06365613947502524,
+    "velocity_ci": [
+      -0.10087802791540797,
+      -0.025765375432722608
+    ],
+    "time_difference": 0.41718749999999005,
+    "time_ci": [
+      0.20312499999999983,
+      0.624999999999986
+    ],
+    "saving": -1.1590050787862793,
+    "saving_ci": [
+      -1.7071440484754778,
+      -0.574220923420955
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1000,
+    "name": "individual-1000-0.0",
+    "period": 71,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 95.57542699744519,
+    "velocity_rmse": 3.4136224499971015,
+    "position_peak": 1403.1052405578262,
+    "velocity_peak": 34.692821739771595,
+    "bad_arcs": 6,
+    "bad_fraction": 0.00046408582089552233,
+    "longest_bad": 20.5,
+    "laser_time": 26.17395833333333,
+    "laser_all_time": 56.16458333333333,
+    "position_coverage": 0.918739116915423,
+    "velocity_coverage": 0.8490080845771143,
+    "event_position_rmse": 81.91577449666075,
+    "event_velocity_rmse": 3.362419611016724,
+    "event_position_peak_mean": 132.31023389728458,
+    "position_difference": -12.377139440422795,
+    "position_ci": [
+      -18.870507885605004,
+      -6.139303815903039
+    ],
+    "velocity_difference": -0.4264791552780558,
+    "velocity_ci": [
+      -0.5877511507295106,
+      -0.2752904534884769
+    ],
+    "time_difference": -2.5328125000000057,
+    "time_ci": [
+      -2.745312499999994,
+      -2.3093750000000024
+    ],
+    "saving": 9.676841644446233,
+    "saving_ci": [
+      8.610315832196578,
+      10.729966376510541
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1000,
+    "name": "individual-1000-0.25",
+    "period": 74,
+    "phase": 0.25,
+    "n": 192,
+    "position_rmse": 95.4855478560183,
+    "velocity_rmse": 3.2174803395708076,
+    "position_peak": 1510.0532477678757,
+    "velocity_peak": 34.97532305126751,
+    "bad_arcs": 1,
+    "bad_fraction": 0.00012904228855721393,
+    "longest_bad": 16.6,
+    "laser_time": 26.225520833333334,
+    "laser_all_time": 56.216145833333336,
+    "position_coverage": 0.9236388370646766,
+    "velocity_coverage": 0.8544301927860696,
+    "event_position_rmse": 86.72214997276954,
+    "event_velocity_rmse": 3.329698331843005,
+    "event_position_peak_mean": 143.3399545786345,
+    "position_difference": -12.28726029899589,
+    "position_ci": [
+      -18.22644930656514,
+      -6.422808572116641
+    ],
+    "velocity_difference": -0.23033704485176099,
+    "velocity_ci": [
+      -0.35115996851407194,
+      -0.11013174850058874
+    ],
+    "time_difference": -2.584375000000012,
+    "time_ci": [
+      -2.7677083333333314,
+      -2.4010286458333385
+    ],
+    "saving": 9.85442774015456,
+    "saving_ci": [
+      8.989786472738501,
+      10.735675120421233
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1000,
+    "name": "individual-1000-0.5",
+    "period": 67,
+    "phase": 0.5,
+    "n": 192,
+    "position_rmse": 87.83706403866466,
+    "velocity_rmse": 3.1956492589221632,
+    "position_peak": 1350.3829358454348,
+    "velocity_peak": 32.23439867648,
+    "bad_arcs": 3,
+    "bad_fraction": 0.00011349502487562192,
+    "longest_bad": 11.0,
+    "laser_time": 27.188020833333336,
+    "laser_all_time": 57.17864583333333,
+    "position_coverage": 0.9195001554726367,
+    "velocity_coverage": 0.8486699315920397,
+    "event_position_rmse": 77.84460961831368,
+    "event_velocity_rmse": 3.252603151359481,
+    "event_position_peak_mean": 131.05284276594006,
+    "position_difference": -4.638776481642239,
+    "position_ci": [
+      -10.57131286633672,
+      1.4948374897678405
+    ],
+    "velocity_difference": -0.20850596420311662,
+    "velocity_ci": [
+      -0.3594147605759514,
+      -0.061218628108640614
+    ],
+    "time_difference": -3.5468750000000036,
+    "time_ci": [
+      -3.7494921874999934,
+      -3.3354036458333196
+    ],
+    "saving": 13.045727093350711,
+    "saving_ci": [
+      12.042285562182999,
+      14.073953148609736
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1000,
+    "name": "individual-1000-0.75",
+    "period": 73,
+    "phase": 0.75,
+    "n": 192,
+    "position_rmse": 94.33032743298077,
+    "velocity_rmse": 3.3344114681216364,
+    "position_peak": 1362.2743572619156,
+    "velocity_peak": 33.20818966371319,
+    "bad_arcs": 6,
+    "bad_fraction": 0.0004975124378109454,
+    "longest_bad": 15.2,
+    "laser_time": 26.188020833333336,
+    "laser_all_time": 56.17864583333334,
+    "position_coverage": 0.9205122823383084,
+    "velocity_coverage": 0.8496882773631841,
+    "event_position_rmse": 75.37009642307719,
+    "event_velocity_rmse": 3.228564958026874,
+    "event_position_peak_mean": 127.6047582781218,
+    "position_difference": -11.132039875958341,
+    "position_ci": [
+      -17.03487335603857,
+      -4.725346700808182
+    ],
+    "velocity_difference": -0.34726817340258975,
+    "velocity_ci": [
+      -0.5262232647959427,
+      -0.1636201169833813
+    ],
+    "time_difference": -2.546875000000014,
+    "time_ci": [
+      -2.742734374999993,
+      -2.356770833333332
+    ],
+    "saving": 9.725343569141476,
+    "saving_ci": [
+      8.804564532023683,
+      10.698401750354327
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1000,
+    "name": "joint-1000-0",
+    "period": 58,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 71.78297071918958,
+    "velocity_rmse": 2.908689984295204,
+    "position_peak": 936.9485757096936,
+    "velocity_peak": 29.333143427538378,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 29.053125000000005,
+    "laser_all_time": 59.043749999999996,
+    "position_coverage": 0.9210976368159204,
+    "velocity_coverage": 0.8488471703980099,
+    "event_position_rmse": 60.46452960831643,
+    "event_velocity_rmse": 2.990636666578345,
+    "event_position_peak_mean": 103.12661246577362,
+    "position_difference": 11.415316837832819,
+    "position_ci": [
+      6.107938349357153,
+      17.043635574435353
+    ],
+    "velocity_difference": 0.07845331042384274,
+    "velocity_ci": [
+      -0.03401201208275201,
+      0.19756415769384383
+    ],
+    "time_difference": -5.411979166666683,
+    "time_ci": [
+      -5.604687500000001,
+      -5.21145833333334
+    ],
+    "saving": 18.62787279050595,
+    "saving_ci": [
+      17.544924949441242,
+      19.742160009525403
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1500,
+    "name": "individual-1500-0.0",
+    "period": 110,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 142.75652535688906,
+    "velocity_rmse": 3.6369366158019734,
+    "position_peak": 1850.2652493605879,
+    "velocity_peak": 33.220363181990635,
+    "bad_arcs": 1,
+    "bad_fraction": 8.784203980099504e-05,
+    "longest_bad": 11.3,
+    "laser_time": 23.256770833333334,
+    "laser_all_time": 53.247395833333336,
+    "position_coverage": 0.9163355099502487,
+    "velocity_coverage": 0.8515570584577116,
+    "event_position_rmse": 161.43851739742848,
+    "event_velocity_rmse": 4.041185651562386,
+    "event_position_peak_mean": 234.07418775685295,
+    "position_difference": -24.924666042763292,
+    "position_ci": [
+      -37.6033842964816,
+      -12.314219922207457
+    ],
+    "velocity_difference": -0.3494916473136209,
+    "velocity_ci": [
+      -0.5802316664398751,
+      -0.11476419567144473
+    ],
+    "time_difference": -1.61770833333334,
+    "time_ci": [
+      -1.7812630208333335,
+      -1.4546744791666755
+    ],
+    "saving": 6.955859628692385,
+    "saving_ci": [
+      6.090491792092798,
+      7.866258897253815
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1500,
+    "name": "individual-1500-0.25",
+    "period": 100,
+    "phase": 0.25,
+    "n": 192,
+    "position_rmse": 136.80481882527653,
+    "velocity_rmse": 3.7466557792503656,
+    "position_peak": 1895.8032864092838,
+    "velocity_peak": 33.48212241562235,
+    "bad_arcs": 2,
+    "bad_fraction": 8.784203980099501e-05,
+    "longest_bad": 8.2,
+    "laser_time": 23.305208333333336,
+    "laser_all_time": 53.29583333333333,
+    "position_coverage": 0.9149191542288557,
+    "velocity_coverage": 0.8515057524875621,
+    "event_position_rmse": 146.12364471037426,
+    "event_velocity_rmse": 3.9571113114594296,
+    "event_position_peak_mean": 209.21331309202526,
+    "position_difference": -18.972959511150734,
+    "position_ci": [
+      -30.357033628148127,
+      -7.875332842341258
+    ],
+    "velocity_difference": -0.4592108107620141,
+    "velocity_ci": [
+      -0.6919992414033492,
+      -0.23355653745565144
+    ],
+    "time_difference": -1.6661458333333456,
+    "time_ci": [
+      -1.8276041666666638,
+      -1.495833333333337
+    ],
+    "saving": 7.149242390381316,
+    "saving_ci": [
+      6.22519784353746,
+      8.059024576150652
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1500,
+    "name": "individual-1500-0.5",
+    "period": 94,
+    "phase": 0.5,
+    "n": 192,
+    "position_rmse": 130.16174337251323,
+    "velocity_rmse": 3.6938148448919064,
+    "position_peak": 1886.0427866223642,
+    "velocity_peak": 37.35743342850707,
+    "bad_arcs": 2,
+    "bad_fraction": 8.006840796019901e-05,
+    "longest_bad": 10.0,
+    "laser_time": 24.263020833333332,
+    "laser_all_time": 54.25364583333334,
+    "position_coverage": 0.9173569651741293,
+    "velocity_coverage": 0.8530946828358209,
+    "event_position_rmse": 133.1816703460919,
+    "event_velocity_rmse": 3.850950068140884,
+    "event_position_peak_mean": 197.74539440690626,
+    "position_difference": -12.329884058387378,
+    "position_ci": [
+      -21.241735667277908,
+      -2.895646061275774
+    ],
+    "velocity_difference": -0.40636987640355393,
+    "velocity_ci": [
+      -0.5934393003140553,
+      -0.21328805313074556
+    ],
+    "time_difference": -2.623958333333338,
+    "time_ci": [
+      -2.800520833333337,
+      -2.445820312500003
+    ],
+    "saving": 10.814639905549017,
+    "saving_ci": [
+      9.802418677837053,
+      11.84046547253281
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1500,
+    "name": "individual-1500-0.75",
+    "period": 110,
+    "phase": 0.75,
+    "n": 192,
+    "position_rmse": 137.90837387025996,
+    "velocity_rmse": 3.6634346349688323,
+    "position_peak": 1391.3500187925524,
+    "velocity_peak": 29.28191554649632,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 23.308854166666666,
+    "laser_all_time": 53.299479166666664,
+    "position_coverage": 0.9261419465174129,
+    "velocity_coverage": 0.8615368470149253,
+    "event_position_rmse": 132.73695087148846,
+    "event_velocity_rmse": 3.780057537171797,
+    "event_position_peak_mean": 200.9544099357448,
+    "position_difference": -20.07651455613417,
+    "position_ci": [
+      -29.38919816315512,
+      -11.815595139954608
+    ],
+    "velocity_difference": -0.37598966648048027,
+    "velocity_ci": [
+      -0.5521340082117309,
+      -0.20007650443707065
+    ],
+    "time_difference": -1.6697916666666686,
+    "time_ci": [
+      -1.8239583333333267,
+      -1.5104166666666714
+    ],
+    "saving": 7.163765557616253,
+    "saving_ci": [
+      6.307296770951528,
+      8.038754976061641
+    ]
+  },
+  {
+    "dataset": "unseen_",
+    "req": 1500,
+    "name": "joint-1500-0",
+    "period": 98,
+    "phase": 0.0,
+    "n": 192,
+    "position_rmse": 122.281005409287,
+    "velocity_rmse": 3.433003183622528,
+    "position_peak": 1325.7977785831063,
+    "velocity_peak": 26.232338320368292,
+    "bad_arcs": 0,
+    "bad_fraction": 0.0,
+    "longest_bad": 0.0,
+    "laser_time": 24.272395833333334,
+    "laser_all_time": 54.263020833333336,
+    "position_coverage": 0.9254757462686568,
+    "velocity_coverage": 0.8602106654228856,
+    "event_position_rmse": 94.030100869787,
+    "event_velocity_rmse": 3.4571255745165246,
+    "event_position_peak_mean": 159.43471188865854,
+    "position_difference": -4.449146095161183,
+    "position_ci": [
+      -13.538017186526499,
+      5.692292626176541
+    ],
+    "velocity_difference": -0.14555821513417566,
+    "velocity_ci": [
+      -0.3631828490328986,
+      0.08143251226570554
+    ],
+    "time_difference": -2.633333333333347,
+    "time_ci": [
+      -2.7927083333333305,
+      -2.4786458333333523
+    ],
+    "saving": 10.849086968650134,
+    "saving_ci": [
+      9.918903944303969,
+      11.82052702247487
+    ]
+  }
+]

@@ -1,0 +1,3756 @@
+{
+  "cluster": [
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": -7.292969718193257,
+      "target_peak_difference_ci": [
+        -18.895031379539414,
+        3.87395176994549
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "failed_tracks": 5,
+      "failed_targets": 3,
+      "target_ids": [
+        15,
+        47,
+        54
+      ],
+      "paired_failure_pp": -0.6510416666666665,
+      "failure_ci": [
+        -1.692708333333333,
+        0.0
+      ],
+      "leave_one_target_range": [
+        -0.6613756613756612,
+        -0.26455026455026454
+      ],
+      "target_peak_difference": -90.00063006852115,
+      "target_peak_difference_ci": [
+        -110.70139425308382,
+        -71.56047329676228
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 3,
+      "target_exact_p": 0.25,
+      "unaffected_peak_rmse_gp": 39.15256803557151,
+      "unaffected_peak_rmse_baseline": 46.581634007335325
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": -14.927648880780595,
+      "target_peak_difference_ci": [
+        -25.40661536765942,
+        -4.536490212672173
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": 190.30658133923149,
+      "target_peak_difference_ci": [
+        162.90918162122756,
+        216.86400875432997
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "failed_tracks": 1,
+      "failed_targets": 1,
+      "target_ids": [
+        30
+      ],
+      "paired_failure_pp": -0.13020833333333331,
+      "failure_ci": [
+        -0.39062499999999994,
+        0.0
+      ],
+      "leave_one_target_range": [
+        -0.13227513227513227,
+        0.0
+      ],
+      "target_peak_difference": -116.57981138386296,
+      "target_peak_difference_ci": [
+        -150.3484316191959,
+        -83.8596370884734
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 1,
+      "target_exact_p": 1.0,
+      "unaffected_peak_rmse_gp": 92.00696483854696,
+      "unaffected_peak_rmse_baseline": 104.0322317621251
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "failed_tracks": 3,
+      "failed_targets": 3,
+      "target_ids": [
+        6,
+        30,
+        38
+      ],
+      "paired_failure_pp": -0.39062499999999994,
+      "failure_ci": [
+        -0.9114583333333331,
+        0.0
+      ],
+      "leave_one_target_range": [
+        -0.39682539682539675,
+        -0.26455026455026454
+      ],
+      "target_peak_difference": -96.884906734733,
+      "target_peak_difference_ci": [
+        -133.12949062624182,
+        -63.62157594086831
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 3,
+      "target_exact_p": 0.25,
+      "unaffected_peak_rmse_gp": 88.04507551536177,
+      "unaffected_peak_rmse_baseline": 91.43359578981425
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": 6.548339651971599,
+      "target_peak_difference_ci": [
+        -40.11896823897406,
+        50.27473929270966
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "failed_tracks": 1,
+      "failed_targets": 1,
+      "target_ids": [
+        6
+      ],
+      "paired_failure_pp": -0.13020833333333331,
+      "failure_ci": [
+        -0.39062499999999994,
+        0.0
+      ],
+      "leave_one_target_range": [
+        -0.13227513227513227,
+        0.0
+      ],
+      "target_peak_difference": -180.75815304800082,
+      "target_peak_difference_ci": [
+        -238.55537352969267,
+        -124.35976040799044
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 1,
+      "target_exact_p": 1.0,
+      "unaffected_peak_rmse_gp": 108.98242631042072,
+      "unaffected_peak_rmse_baseline": 143.73764982171326
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": -97.24078806343294,
+      "target_peak_difference_ci": [
+        -146.76452602008206,
+        -49.260488865762404
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": -20.69701425249785,
+      "target_peak_difference_ci": [
+        -29.811091663223856,
+        -11.278293186846128
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "failed_tracks": 29,
+      "failed_targets": 10,
+      "target_ids": [
+        1,
+        15,
+        16,
+        21,
+        26,
+        27,
+        34,
+        36,
+        48,
+        58
+      ],
+      "paired_failure_pp": -3.776041666666666,
+      "failure_ci": [
+        -7.291666666666666,
+        -1.1718749999999998
+      ],
+      "leave_one_target_range": [
+        -3.835978835978836,
+        -2.6455026455026447
+      ],
+      "target_peak_difference": -110.34661943496832,
+      "target_peak_difference_ci": [
+        -130.21864172851426,
+        -92.05134362356127
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 10,
+      "target_exact_p": 0.001953125,
+      "unaffected_peak_rmse_gp": 36.24684291026392,
+      "unaffected_peak_rmse_baseline": 43.70104938175897
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "failed_tracks": 1,
+      "failed_targets": 1,
+      "target_ids": [
+        21
+      ],
+      "paired_failure_pp": -0.13020833333333331,
+      "failure_ci": [
+        -0.39062499999999994,
+        0.0
+      ],
+      "leave_one_target_range": [
+        -0.13227513227513227,
+        0.0
+      ],
+      "target_peak_difference": -40.39339776225149,
+      "target_peak_difference_ci": [
+        -51.872003834837166,
+        -29.882305215910538
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 1,
+      "target_exact_p": 1.0,
+      "unaffected_peak_rmse_gp": 40.09929938859964,
+      "unaffected_peak_rmse_baseline": 41.49395384558676
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": 153.68825356848,
+      "target_peak_difference_ci": [
+        129.25633326166042,
+        178.9062947795314
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "failed_tracks": 8,
+      "failed_targets": 6,
+      "target_ids": [
+        1,
+        16,
+        22,
+        23,
+        35,
+        43
+      ],
+      "paired_failure_pp": -1.0416666666666665,
+      "failure_ci": [
+        -1.9531249999999998,
+        -0.26041666666666663
+      ],
+      "leave_one_target_range": [
+        -1.0582010582010581,
+        -0.7936507936507935
+      ],
+      "target_peak_difference": -201.79556334284635,
+      "target_peak_difference_ci": [
+        -249.13052333923903,
+        -156.26751388471254
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 6,
+      "target_exact_p": 0.03125,
+      "unaffected_peak_rmse_gp": 83.93626902412622,
+      "unaffected_peak_rmse_baseline": 100.61411705946225
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "failed_tracks": 9,
+      "failed_targets": 5,
+      "target_ids": [
+        1,
+        16,
+        32,
+        34,
+        36
+      ],
+      "paired_failure_pp": -1.171875,
+      "failure_ci": [
+        -2.473958333333333,
+        -0.26041666666666663
+      ],
+      "leave_one_target_range": [
+        -1.1904761904761905,
+        -0.6613756613756612
+      ],
+      "target_peak_difference": -143.3900233537725,
+      "target_peak_difference_ci": [
+        -184.9706603378129,
+        -101.3646753643927
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 5,
+      "target_exact_p": 0.0625,
+      "unaffected_peak_rmse_gp": 82.86955953616999,
+      "unaffected_peak_rmse_baseline": 92.30560115721788
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "failed_tracks": 1,
+      "failed_targets": 1,
+      "target_ids": [
+        34
+      ],
+      "paired_failure_pp": -0.13020833333333331,
+      "failure_ci": [
+        -0.39062499999999994,
+        0.0
+      ],
+      "leave_one_target_range": [
+        -0.13227513227513227,
+        0.0
+      ],
+      "target_peak_difference": -37.94043433024414,
+      "target_peak_difference_ci": [
+        -94.17592168338874,
+        13.12431176447744
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 1,
+      "target_exact_p": 1.0,
+      "unaffected_peak_rmse_gp": 116.43360691826356,
+      "unaffected_peak_rmse_baseline": 100.894572911248
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": -169.03968293605462,
+      "target_peak_difference_ci": [
+        -224.20354564967798,
+        -116.94559909551336
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "failed_tracks": 0,
+      "failed_targets": 0,
+      "target_ids": [],
+      "paired_failure_pp": 0.0,
+      "failure_ci": [
+        0.0,
+        0.0
+      ],
+      "leave_one_target_range": [
+        0.0,
+        0.0
+      ],
+      "target_peak_difference": -109.51533603836373,
+      "target_peak_difference_ci": [
+        -163.9253216459213,
+        -56.29524488576382
+      ],
+      "target_discordant_gp_only": 0,
+      "target_discordant_baseline_only": 0,
+      "target_exact_p": 1.0
+    }
+  ],
+  "peak_distribution": [
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "n": 768,
+      "position_quantiles": [
+        39.33476875586817,
+        90.05842350432815,
+        124.90783814520795,
+        185.3118930639066,
+        284.4527973145125,
+        336.1780724457621,
+        386.3610751649422
+      ],
+      "velocity_quantiles": [
+        1.7851797851968556,
+        3.9280787458360114,
+        5.719216492936626,
+        7.953076943076235,
+        11.423523298400445,
+        14.94427361425538,
+        18.5507705441477
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "n": 768,
+      "position_quantiles": [
+        40.37983176349563,
+        91.88209682398693,
+        127.3606901286802,
+        178.11691929858785,
+        264.5797075940443,
+        322.2367716518502,
+        423.08910785103444
+      ],
+      "velocity_quantiles": [
+        1.9419233628006578,
+        4.007014146951577,
+        5.798459418915041,
+        7.924204376838439,
+        12.145763702639716,
+        15.729225642069133,
+        20.692481472320363
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "n": 768,
+      "position_quantiles": [
+        47.22788189130437,
+        118.99474314354744,
+        167.1592312029257,
+        243.0727977509216,
+        361.23356721610475,
+        473.8583260169746,
+        603.5565894569313
+      ],
+      "velocity_quantiles": [
+        2.05097213123586,
+        4.378510752668113,
+        6.464931865987186,
+        9.179172937679397,
+        15.532392050467607,
+        19.646341051504606,
+        24.864553031147867
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "n": 768,
+      "position_quantiles": [
+        47.1326797548277,
+        99.04542732235029,
+        135.34725784040648,
+        187.9970820978276,
+        270.77143369365194,
+        324.7374767530896,
+        411.3528408708971
+      ],
+      "velocity_quantiles": [
+        2.0525714903642878,
+        4.181580745080347,
+        5.913612086881572,
+        8.330676555400748,
+        12.980931292918378,
+        16.454232811773657,
+        19.51574435397882
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "n": 768,
+      "position_quantiles": [
+        75.5048267983695,
+        181.28927022009435,
+        265.6832889177608,
+        398.2856426347207,
+        641.9326403085107,
+        805.3273490625097,
+        893.02202382767
+      ],
+      "velocity_quantiles": [
+        1.9582466890962054,
+        4.615580408938077,
+        6.842402500523866,
+        10.671625184559941,
+        16.607078536423227,
+        21.339207536487788,
+        25.552137843283653
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "n": 768,
+      "position_quantiles": [
+        52.25921404606138,
+        116.12064756464515,
+        167.9220573825915,
+        232.34547744137333,
+        352.60530624025535,
+        469.681579213058,
+        615.2254265013935
+      ],
+      "velocity_quantiles": [
+        1.8320001745477774,
+        4.26640506834568,
+        6.717291277146565,
+        9.418762443158998,
+        13.464006560187793,
+        18.10767325208949,
+        22.194918629500975
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "n": 768,
+      "position_quantiles": [
+        65.60013482656112,
+        225.64379778652426,
+        351.6434665588233,
+        520.7395374149763,
+        752.6963689044297,
+        879.3500049094791,
+        1023.5996081855461
+      ],
+      "velocity_quantiles": [
+        2.1010863790410057,
+        5.437755739922681,
+        7.892112841817431,
+        10.785583044993801,
+        15.083318969224035,
+        17.52214118580434,
+        23.332519002391056
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "n": 768,
+      "position_quantiles": [
+        60.49981091920703,
+        222.06048263913846,
+        318.5796867617555,
+        476.8882780841943,
+        695.5931386716351,
+        866.3893653299133,
+        1198.5451973072857
+      ],
+      "velocity_quantiles": [
+        2.0273955204556002,
+        5.363905462362657,
+        7.694503384393149,
+        10.633781773796482,
+        14.881219962459767,
+        19.14619874545472,
+        25.569983529514076
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "n": 768,
+      "position_quantiles": [
+        85.1587266290019,
+        252.51783635055557,
+        370.42272538871083,
+        516.499983095952,
+        736.8926530954337,
+        913.6876179787134,
+        1146.60759860898
+      ],
+      "velocity_quantiles": [
+        2.4392588509543778,
+        5.74887310725089,
+        7.953918072687987,
+        10.860960878774552,
+        15.019889454242088,
+        18.124527940461824,
+        25.399775320762576
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "n": 768,
+      "position_quantiles": [
+        64.74910995347534,
+        228.41211352675742,
+        318.7422736498597,
+        423.64250232111743,
+        702.9640711957657,
+        1123.2034032915033,
+        1301.3582927214302
+      ],
+      "velocity_quantiles": [
+        2.092722691335343,
+        6.1475452639194845,
+        8.168137714161979,
+        10.819627098796424,
+        16.851104048811088,
+        24.39242998095776,
+        29.01757635042263
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "n": 768,
+      "position_quantiles": [
+        73.2676685569663,
+        280.8998299473103,
+        447.8579646085068,
+        695.3374738614909,
+        1042.8880625039585,
+        1266.782852533802,
+        1577.202505952483
+      ],
+      "velocity_quantiles": [
+        2.1200048508818035,
+        6.0410162103728515,
+        8.69976868885767,
+        12.39441404951598,
+        17.975467474063514,
+        20.423300147213666,
+        25.1067810038868
+      ]
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "n": 768,
+      "position_quantiles": [
+        73.50764420033227,
+        253.25811832903875,
+        407.85505058938145,
+        615.3883658859511,
+        921.5084688459194,
+        1114.357477114097,
+        1397.6353849920629
+      ],
+      "velocity_quantiles": [
+        2.270280150864512,
+        5.671359741877553,
+        8.184167219916123,
+        11.278314203365891,
+        16.12280816936523,
+        19.68225674683495,
+        24.3558667885473
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "n": 768,
+      "position_quantiles": [
+        45.87138451937199,
+        94.18865527184377,
+        122.90003591326317,
+        193.03299655034155,
+        300.4450641961613,
+        341.77097526361945,
+        400.8661933538498
+      ],
+      "velocity_quantiles": [
+        2.82910171734332,
+        4.872262749518146,
+        6.218843571334281,
+        8.348760588003284,
+        14.744228904301483,
+        19.37715849962731,
+        23.257890692026045
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "n": 768,
+      "position_quantiles": [
+        51.161432154039225,
+        97.70795925319042,
+        127.15338341490492,
+        195.13622037618512,
+        285.78970487635377,
+        387.75010574748256,
+        431.8823870840449
+      ],
+      "velocity_quantiles": [
+        2.577426606647853,
+        4.869334038214703,
+        6.154673381774078,
+        8.379726748393274,
+        13.851585636108375,
+        18.897434403927335,
+        22.78219973782378
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "n": 768,
+      "position_quantiles": [
+        46.90480386072191,
+        125.51869204794293,
+        169.48170355054765,
+        258.3840493688167,
+        466.9048773153415,
+        597.1106130443766,
+        763.9804641313026
+      ],
+      "velocity_quantiles": [
+        2.646584526239513,
+        5.313867177892116,
+        7.078340766143635,
+        9.824833827678292,
+        19.407124216539863,
+        24.420758260665732,
+        30.531878280741477
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "n": 768,
+      "position_quantiles": [
+        48.94706312401088,
+        102.01623822766112,
+        139.03834476442492,
+        203.31274330952056,
+        318.5972651797802,
+        446.8865818298758,
+        524.9100307355033
+      ],
+      "velocity_quantiles": [
+        2.6033598496417496,
+        4.972971502740387,
+        6.524521083742787,
+        8.748931896075826,
+        16.137476613161542,
+        22.287302723326157,
+        25.529752048783994
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "n": 768,
+      "position_quantiles": [
+        73.88051788342736,
+        169.39636665203093,
+        255.39024646044305,
+        405.7195833792388,
+        633.0046852923551,
+        781.8085437096979,
+        898.7963086164058
+      ],
+      "velocity_quantiles": [
+        2.9338475634947927,
+        5.419156316323082,
+        7.164992229832314,
+        10.630686177230025,
+        17.90707568287199,
+        23.518395326958874,
+        27.418555066444835
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "n": 768,
+      "position_quantiles": [
+        50.972191254600354,
+        118.20038529522002,
+        166.17959942585566,
+        252.2959439052479,
+        429.27388142143474,
+        587.0552258415058,
+        686.2507958910627
+      ],
+      "velocity_quantiles": [
+        2.7479694657231075,
+        5.003891102520583,
+        6.752586029495036,
+        9.086913343694405,
+        18.041457556186028,
+        23.2940986402643,
+        26.402275083135848
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "n": 768,
+      "position_quantiles": [
+        88.58119264875914,
+        262.23371729559983,
+        363.2425505282024,
+        509.81379921862447,
+        796.936864257437,
+        1000.4737984521657,
+        1275.5551926376922
+      ],
+      "velocity_quantiles": [
+        2.521143514621633,
+        6.496281663970049,
+        8.374808138871032,
+        11.06506763539161,
+        17.074243123374316,
+        21.62894807627539,
+        24.771183337997595
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "n": 768,
+      "position_quantiles": [
+        74.7797561638484,
+        236.23847078208715,
+        328.7699863721739,
+        479.55076711374375,
+        755.2653821396407,
+        1026.0132300265016,
+        1239.9744781192026
+      ],
+      "velocity_quantiles": [
+        2.9951319235820546,
+        6.15914740359405,
+        8.14748600570396,
+        10.966424008136329,
+        17.333786777166363,
+        22.349325319438385,
+        29.099106850153337
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "n": 768,
+      "position_quantiles": [
+        89.84766041285538,
+        255.47050527131552,
+        364.15296099519344,
+        522.4579139375833,
+        805.6903006038782,
+        1018.5693703936383,
+        1149.9552985123253
+      ],
+      "velocity_quantiles": [
+        3.156263649174935,
+        6.251442076698544,
+        8.079476211290164,
+        11.094328122875027,
+        17.798062150364565,
+        22.28594512183384,
+        25.243881142084042
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "n": 768,
+      "position_quantiles": [
+        78.65028759852181,
+        251.63665322928603,
+        346.71950521434076,
+        492.8814368884864,
+        859.770515367678,
+        1181.8042729710062,
+        1517.018897261572
+      ],
+      "velocity_quantiles": [
+        2.578244203432509,
+        6.723959398474767,
+        8.813158635320836,
+        11.579570247782394,
+        21.160309374911133,
+        26.105133918112344,
+        37.206041469990694
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "n": 768,
+      "position_quantiles": [
+        91.08918681654673,
+        328.3036970520567,
+        447.64286840681837,
+        618.9956820282093,
+        919.7329808533893,
+        1154.8591723372942,
+        1281.9430102429926
+      ],
+      "velocity_quantiles": [
+        3.2214906932992107,
+        7.159977472002399,
+        8.954686366033673,
+        11.525695550434122,
+        16.249884799069815,
+        19.040701007357896,
+        22.320368023901892
+      ]
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "n": 768,
+      "position_quantiles": [
+        80.07938914532629,
+        308.9051795727778,
+        425.83107656341804,
+        581.2454496605482,
+        852.9388826106109,
+        1067.8535317965086,
+        1199.2449533402246
+      ],
+      "velocity_quantiles": [
+        3.10503306602079,
+        6.959114810149659,
+        8.76081991049076,
+        11.611546951609117,
+        16.710681112552123,
+        19.542996491996593,
+        21.53990146307942
+      ]
+    }
+  ],
+  "failure_strata": [
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 4,
+      "failed_targets": 3
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 3,
+      "failed_targets": 3
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 2,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 260930403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 5,
+      "failed_targets": 4
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 8,
+      "failed_targets": 4
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 15,
+      "failed_targets": 9
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 8,
+      "failed_targets": 6
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 12,
+      "failed_targets": 7
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 9,
+      "failed_targets": 5
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 2,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 2,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 4,
+      "failed_targets": 4
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 3,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 2,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 3,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 5,
+      "failed_targets": 4
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 3,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 3,
+      "failed_targets": 2
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 5,
+      "failed_targets": 4
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "MSC-GP",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 1,
+      "failed_targets": 1
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Periodic",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "RIT-fine",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 5,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 10,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 15,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "freq",
+      "value": 20,
+      "n": 192,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001401,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001402,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "method": "Constant",
+      "axis": "seed",
+      "value": 261001403,
+      "n": 256,
+      "failed_tracks": 0,
+      "failed_targets": 0
+    }
+  ],
+  "failures": [
+    {
+      "dataset": "original",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 47,
+      "norad": "48294",
+      "freq": 10,
+      "seed": 260930401,
+      "position_peak": 603.5565894569313,
+      "velocity_peak": 24.743903159463056,
+      "bad": 44,
+      "samples": 6700,
+      "longest_bad": 4.4,
+      "laser_time": 35.0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 15,
+      "norad": "52484",
+      "freq": 10,
+      "seed": 260930402,
+      "position_peak": 504.17318199340025,
+      "velocity_peak": 21.56918731900336,
+      "bad": 3,
+      "samples": 6700,
+      "longest_bad": 0.2,
+      "laser_time": 35.0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 47,
+      "norad": "48294",
+      "freq": 10,
+      "seed": 260930402,
+      "position_peak": 501.10844405682224,
+      "velocity_peak": 21.302490463965814,
+      "bad": 2,
+      "samples": 6700,
+      "longest_bad": 0.1,
+      "laser_time": 34.0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 54,
+      "norad": "48304",
+      "freq": 10,
+      "seed": 260930402,
+      "position_peak": 564.2888708026928,
+      "velocity_peak": 23.096361338325487,
+      "bad": 30,
+      "samples": 6700,
+      "longest_bad": 3.0,
+      "laser_time": 38.0
+    },
+    {
+      "dataset": "original",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 47,
+      "norad": "48294",
+      "freq": 15,
+      "seed": 260930403,
+      "position_peak": 593.7773641082493,
+      "velocity_peak": 24.864553031147867,
+      "bad": 65,
+      "samples": 10050,
+      "longest_bad": 4.333333333333333,
+      "laser_time": 35.0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 30,
+      "norad": "47362",
+      "freq": 5,
+      "seed": 260930403,
+      "position_peak": 1023.5996081855461,
+      "velocity_peak": 23.332519002391056,
+      "bad": 5,
+      "samples": 3350,
+      "longest_bad": 1.0,
+      "laser_time": 21.0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "name": "Constant",
+      "target": 6,
+      "norad": "47650",
+      "freq": 10,
+      "seed": 260930401,
+      "position_peak": 1093.9875257017416,
+      "velocity_peak": 21.728959900481982,
+      "bad": 31,
+      "samples": 6700,
+      "longest_bad": 3.1,
+      "laser_time": 32.0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "name": "Constant",
+      "target": 38,
+      "norad": "47371",
+      "freq": 5,
+      "seed": 260930402,
+      "position_peak": 1003.9871780784232,
+      "velocity_peak": 19.14501944148628,
+      "bad": 2,
+      "samples": 3350,
+      "longest_bad": 0.4,
+      "laser_time": 17.0
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "name": "Constant",
+      "target": 30,
+      "norad": "47362",
+      "freq": 5,
+      "seed": 260930403,
+      "position_peak": 1198.5451973072857,
+      "velocity_peak": 25.569983529514076,
+      "bad": 32,
+      "samples": 3350,
+      "longest_bad": 6.0,
+      "laser_time": 21.0
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "name": "RIT-fine",
+      "target": 6,
+      "norad": "47650",
+      "freq": 5,
+      "seed": 260930403,
+      "position_peak": 1577.202505952483,
+      "velocity_peak": 19.933151813594797,
+      "bad": 3,
+      "samples": 3350,
+      "longest_bad": 0.4,
+      "laser_time": 23.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 1,
+      "norad": "52501",
+      "freq": 10,
+      "seed": 261001401,
+      "position_peak": 514.3269156023051,
+      "velocity_peak": 21.374144957533037,
+      "bad": 7,
+      "samples": 6700,
+      "longest_bad": 0.7,
+      "laser_time": 27.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 15,
+      "norad": "54774",
+      "freq": 10,
+      "seed": 261001401,
+      "position_peak": 628.246298665973,
+      "velocity_peak": 24.228686217572843,
+      "bad": 69,
+      "samples": 6700,
+      "longest_bad": 6.9,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 10,
+      "seed": 261001402,
+      "position_peak": 575.8567209610253,
+      "velocity_peak": 24.768699809646584,
+      "bad": 34,
+      "samples": 6700,
+      "longest_bad": 3.4,
+      "laser_time": 26.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 21,
+      "norad": "51868",
+      "freq": 10,
+      "seed": 261001403,
+      "position_peak": 619.5005964781402,
+      "velocity_peak": 24.678381518071518,
+      "bad": 45,
+      "samples": 6700,
+      "longest_bad": 4.5,
+      "laser_time": 25.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 10,
+      "seed": 261001403,
+      "position_peak": 531.6830395039929,
+      "velocity_peak": 22.2942957102736,
+      "bad": 18,
+      "samples": 6700,
+      "longest_bad": 1.8,
+      "laser_time": 31.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 15,
+      "seed": 261001401,
+      "position_peak": 535.5283457268672,
+      "velocity_peak": 21.827276231117846,
+      "bad": 26,
+      "samples": 10050,
+      "longest_bad": 1.7333333333333334,
+      "laser_time": 31.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 1,
+      "norad": "52501",
+      "freq": 15,
+      "seed": 261001402,
+      "position_peak": 606.5027349760469,
+      "velocity_peak": 25.24193544249367,
+      "bad": 69,
+      "samples": 10050,
+      "longest_bad": 4.6,
+      "laser_time": 26.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 21,
+      "norad": "51868",
+      "freq": 15,
+      "seed": 261001402,
+      "position_peak": 592.4846425407172,
+      "velocity_peak": 24.293869193585248,
+      "bad": 56,
+      "samples": 10050,
+      "longest_bad": 3.7333333333333334,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 15,
+      "seed": 261001402,
+      "position_peak": 514.4415283609916,
+      "velocity_peak": 21.254993780131368,
+      "bad": 12,
+      "samples": 10050,
+      "longest_bad": 0.8,
+      "laser_time": 26.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 1,
+      "norad": "52501",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 510.7785449445837,
+      "velocity_peak": 23.165343464350002,
+      "bad": 8,
+      "samples": 10050,
+      "longest_bad": 0.5333333333333333,
+      "laser_time": 26.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 21,
+      "norad": "51868",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 558.0413412850345,
+      "velocity_peak": 23.15324626926344,
+      "bad": 36,
+      "samples": 10050,
+      "longest_bad": 2.4,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 36,
+      "norad": "51995",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 502.4232523682382,
+      "velocity_peak": 21.134002417579218,
+      "bad": 2,
+      "samples": 10050,
+      "longest_bad": 0.13333333333333333,
+      "laser_time": 34.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 697.5483156438462,
+      "velocity_peak": 28.567461874934715,
+      "bad": 119,
+      "samples": 10050,
+      "longest_bad": 7.933333333333334,
+      "laser_time": 31.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 15,
+      "norad": "54774",
+      "freq": 20,
+      "seed": 261001401,
+      "position_peak": 576.3444901242129,
+      "velocity_peak": 22.44516048137375,
+      "bad": 99,
+      "samples": 13400,
+      "longest_bad": 4.95,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 21,
+      "norad": "51868",
+      "freq": 20,
+      "seed": 261001401,
+      "position_peak": 580.739079093474,
+      "velocity_peak": 24.219636305428665,
+      "bad": 57,
+      "samples": 13400,
+      "longest_bad": 2.8,
+      "laser_time": 29.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 27,
+      "norad": "51973",
+      "freq": 20,
+      "seed": 261001401,
+      "position_peak": 504.43119819563555,
+      "velocity_peak": 20.40611717168538,
+      "bad": 5,
+      "samples": 13400,
+      "longest_bad": 0.2,
+      "laser_time": 31.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 34,
+      "norad": "51887",
+      "freq": 20,
+      "seed": 261001401,
+      "position_peak": 518.6296925690194,
+      "velocity_peak": 20.084588435984713,
+      "bad": 21,
+      "samples": 13400,
+      "longest_bad": 1.05,
+      "laser_time": 35.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 20,
+      "seed": 261001401,
+      "position_peak": 634.8228232909155,
+      "velocity_peak": 26.88090610656534,
+      "bad": 122,
+      "samples": 13400,
+      "longest_bad": 6.1,
+      "laser_time": 25.05
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 1,
+      "norad": "52501",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 617.747865644048,
+      "velocity_peak": 25.68514245140553,
+      "bad": 94,
+      "samples": 13400,
+      "longest_bad": 4.7,
+      "laser_time": 31.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 15,
+      "norad": "54774",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 565.7411668663509,
+      "velocity_peak": 23.092133054469357,
+      "bad": 51,
+      "samples": 13400,
+      "longest_bad": 2.55,
+      "laser_time": 31.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 16,
+      "norad": "48690",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 535.9152915571706,
+      "velocity_peak": 21.91365396707873,
+      "bad": 37,
+      "samples": 13400,
+      "longest_bad": 1.6,
+      "laser_time": 31.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 21,
+      "norad": "51868",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 528.8205651375174,
+      "velocity_peak": 22.51207304918,
+      "bad": 26,
+      "samples": 13400,
+      "longest_bad": 1.3,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 26,
+      "norad": "51968",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 548.5261556436709,
+      "velocity_peak": 22.674084321885122,
+      "bad": 45,
+      "samples": 13400,
+      "longest_bad": 2.25,
+      "laser_time": 35.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 48,
+      "norad": "48668",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 504.62105921087255,
+      "velocity_peak": 21.721519382978524,
+      "bad": 7,
+      "samples": 13400,
+      "longest_bad": 0.35,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 763.9804641313026,
+      "velocity_peak": 30.531878280741477,
+      "bad": 188,
+      "samples": 13400,
+      "longest_bad": 9.4,
+      "laser_time": 26.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 15,
+      "norad": "54774",
+      "freq": 20,
+      "seed": 261001403,
+      "position_peak": 529.6756702981106,
+      "velocity_peak": 21.692547044036324,
+      "bad": 17,
+      "samples": 13400,
+      "longest_bad": 0.85,
+      "laser_time": 35.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 21,
+      "norad": "51868",
+      "freq": 20,
+      "seed": 261001403,
+      "position_peak": 647.2637431740624,
+      "velocity_peak": 26.001572614530893,
+      "bad": 118,
+      "samples": 13400,
+      "longest_bad": 5.9,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 20,
+      "seed": 261001403,
+      "position_peak": 542.4581360377306,
+      "velocity_peak": 22.814122299561507,
+      "bad": 33,
+      "samples": 13400,
+      "longest_bad": 1.65,
+      "laser_time": 30.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "RIT-fine",
+      "target": 58,
+      "norad": "52478",
+      "freq": 5,
+      "seed": 261001402,
+      "position_peak": 530.2593524038653,
+      "velocity_peak": 23.233090256992384,
+      "bad": 6,
+      "samples": 3350,
+      "longest_bad": 1.2,
+      "laser_time": 26.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "name": "Constant",
+      "target": 21,
+      "norad": "51868",
+      "freq": 20,
+      "seed": 261001401,
+      "position_peak": 524.9100307355033,
+      "velocity_peak": 25.486304602396647,
+      "bad": 23,
+      "samples": 13400,
+      "longest_bad": 1.15,
+      "laser_time": 33.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 23,
+      "norad": "51881",
+      "freq": 10,
+      "seed": 261001401,
+      "position_peak": 1215.8187924431463,
+      "velocity_peak": 21.86874431722728,
+      "bad": 85,
+      "samples": 6700,
+      "longest_bad": 8.2,
+      "laser_time": 21.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 22,
+      "norad": "51873",
+      "freq": 10,
+      "seed": 261001402,
+      "position_peak": 1015.5381513518258,
+      "velocity_peak": 18.7920307204172,
+      "bad": 2,
+      "samples": 6700,
+      "longest_bad": 0.2,
+      "laser_time": 22.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 35,
+      "norad": "51956",
+      "freq": 15,
+      "seed": 261001401,
+      "position_peak": 1039.9505543352361,
+      "velocity_peak": 19.500023325237514,
+      "bad": 16,
+      "samples": 10050,
+      "longest_bad": 1.0666666666666667,
+      "laser_time": 22.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 43,
+      "norad": "52453",
+      "freq": 15,
+      "seed": 261001402,
+      "position_peak": 1011.4264788954366,
+      "velocity_peak": 22.468215332316102,
+      "bad": 12,
+      "samples": 10050,
+      "longest_bad": 0.3333333333333333,
+      "laser_time": 27.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 1,
+      "norad": "52501",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 1035.63920995396,
+      "velocity_peak": 22.856812278649844,
+      "bad": 29,
+      "samples": 10050,
+      "longest_bad": 1.7333333333333334,
+      "laser_time": 17.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 16,
+      "norad": "48690",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 1065.521456990278,
+      "velocity_peak": 21.485698444954853,
+      "bad": 39,
+      "samples": 10050,
+      "longest_bad": 2.533333333333333,
+      "laser_time": 21.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 35,
+      "norad": "51956",
+      "freq": 5,
+      "seed": 261001401,
+      "position_peak": 1275.5551926376922,
+      "velocity_peak": 24.344733122909123,
+      "bad": 67,
+      "samples": 3350,
+      "longest_bad": 13.4,
+      "laser_time": 16.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "RIT-fine",
+      "target": 1,
+      "norad": "52501",
+      "freq": 5,
+      "seed": 261001403,
+      "position_peak": 1151.084034359628,
+      "velocity_peak": 21.7816459181477,
+      "bad": 38,
+      "samples": 3350,
+      "longest_bad": 6.2,
+      "laser_time": 17.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 1,
+      "norad": "52501",
+      "freq": 15,
+      "seed": 261001402,
+      "position_peak": 1079.6912892279624,
+      "velocity_peak": 23.56113372742243,
+      "bad": 156,
+      "samples": 10050,
+      "longest_bad": 5.466666666666667,
+      "laser_time": 17.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 1,
+      "norad": "52501",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 1160.1776194500999,
+      "velocity_peak": 24.510549200632944,
+      "bad": 186,
+      "samples": 10050,
+      "longest_bad": 8.266666666666667,
+      "laser_time": 17.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 16,
+      "norad": "48690",
+      "freq": 15,
+      "seed": 261001403,
+      "position_peak": 1105.9162311106154,
+      "velocity_peak": 22.044901899190826,
+      "bad": 112,
+      "samples": 10050,
+      "longest_bad": 7.333333333333333,
+      "laser_time": 22.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 1,
+      "norad": "52501",
+      "freq": 20,
+      "seed": 261001402,
+      "position_peak": 1238.6687617310695,
+      "velocity_peak": 29.099106850153337,
+      "bad": 194,
+      "samples": 13400,
+      "longest_bad": 9.4,
+      "laser_time": 20.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 32,
+      "norad": "51882",
+      "freq": 5,
+      "seed": 261001401,
+      "position_peak": 1050.4842241314188,
+      "velocity_peak": 22.96739711206211,
+      "bad": 15,
+      "samples": 3350,
+      "longest_bad": 2.4,
+      "laser_time": 21.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 36,
+      "norad": "51995",
+      "freq": 5,
+      "seed": 261001402,
+      "position_peak": 1239.9744781192026,
+      "velocity_peak": 25.851919247830306,
+      "bad": 30,
+      "samples": 3350,
+      "longest_bad": 5.8,
+      "laser_time": 17.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 1,
+      "norad": "52501",
+      "freq": 5,
+      "seed": 261001403,
+      "position_peak": 1127.1639278449395,
+      "velocity_peak": 23.322007272762605,
+      "bad": 54,
+      "samples": 3350,
+      "longest_bad": 10.6,
+      "laser_time": 17.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 34,
+      "norad": "51887",
+      "freq": 5,
+      "seed": 261001403,
+      "position_peak": 1019.1062046453657,
+      "velocity_peak": 19.194423446242155,
+      "bad": 5,
+      "samples": 3350,
+      "longest_bad": 1.0,
+      "laser_time": 27.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "name": "Constant",
+      "target": 36,
+      "norad": "51995",
+      "freq": 5,
+      "seed": 261001403,
+      "position_peak": 1040.0365845881988,
+      "velocity_peak": 19.90388842705788,
+      "bad": 4,
+      "samples": 3350,
+      "longest_bad": 0.8,
+      "laser_time": 22.0
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "name": "Periodic",
+      "target": 34,
+      "norad": "51887",
+      "freq": 20,
+      "seed": 261001401,
+      "position_peak": 1517.018897261572,
+      "velocity_peak": 33.600151170967145,
+      "bad": 8,
+      "samples": 13400,
+      "longest_bad": 0.4,
+      "laser_time": 28.0
+    }
+  ],
+  "triggers": [
+    {
+      "dataset": "original",
+      "req": 500,
+      "trajectories": 768,
+      "seconds": 514560,
+      "position_only": 14444,
+      "velocity_only": 0,
+      "both": 0,
+      "neither": 500116,
+      "trigger_starts": 14444,
+      "max_velocity_ratio": 0.4994384765625
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "trajectories": 768,
+      "seconds": 514560,
+      "position_only": 4667,
+      "velocity_only": 0,
+      "both": 0,
+      "neither": 509893,
+      "trigger_starts": 4667,
+      "max_velocity_ratio": 0.35681254069010415
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "trajectories": 768,
+      "seconds": 514560,
+      "position_only": 3302,
+      "velocity_only": 0,
+      "both": 0,
+      "neither": 511258,
+      "trigger_starts": 3302,
+      "max_velocity_ratio": 0.2512506103515625
+    },
+    {
+      "dataset": "unseen_",
+      "req": 500,
+      "trajectories": 768,
+      "seconds": 514560,
+      "position_only": 14436,
+      "velocity_only": 0,
+      "both": 0,
+      "neither": 500124,
+      "trigger_starts": 14436,
+      "max_velocity_ratio": 0.49945926666259766
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1000,
+      "trajectories": 768,
+      "seconds": 514560,
+      "position_only": 4736,
+      "velocity_only": 0,
+      "both": 0,
+      "neither": 509824,
+      "trigger_starts": 4736,
+      "max_velocity_ratio": 0.3560130055745443
+    },
+    {
+      "dataset": "unseen_",
+      "req": 1500,
+      "trajectories": 768,
+      "seconds": 514560,
+      "position_only": 3222,
+      "velocity_only": 0,
+      "both": 0,
+      "neither": 511338,
+      "trigger_starts": 3222,
+      "max_velocity_ratio": 0.2512474060058594
+    }
+  ],
+  "savings": [
+    {
+      "dataset": "original",
+      "req": 500,
+      "postinit": 9.28344257548811,
+      "whole_arc": 5.298408185286507
+    },
+    {
+      "dataset": "original",
+      "req": 1000,
+      "postinit": 30.89929222812898,
+      "whole_arc": 16.43964332707819
+    },
+    {
+      "dataset": "original",
+      "req": 1500,
+      "postinit": 13.879908572369914,
+      "whole_arc": 6.350133481868947
+    },
+    {
+      "dataset": "unseen",
+      "req": 500,
+      "postinit": 9.464916337513063,
+      "whole_arc": 5.399912173810062
+    },
+    {
+      "dataset": "unseen",
+      "req": 1000,
+      "postinit": 30.663166733449543,
+      "whole_arc": 16.294963614083468
+    },
+    {
+      "dataset": "unseen",
+      "req": 1500,
+      "postinit": 14.55906693272696,
+      "whole_arc": 6.655258729193491
+    }
+  ]
+}

@@ -1,0 +1,1589 @@
+{
+  "tracking": [
+    {
+      "req": 500,
+      "name": "MSC-GP",
+      "n": 768,
+      "position_rmse": 39.51686075622658,
+      "velocity_rmse": 2.2066795777135915,
+      "position_peak": 386.3610751649422,
+      "velocity_peak": 18.5507705441477,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 36.17456597222222,
+      "laser_all_time": 66.16642795138888,
+      "position_coverage": 0.9185755143553068,
+      "velocity_coverage": 0.8415204899979271,
+      "event_position_rmse": 40.664741653446,
+      "event_velocity_rmse": 2.576176119094556,
+      "event_position_peak_mean": 70.1769477822122
+    },
+    {
+      "req": 500,
+      "name": "Periodic",
+      "n": 768,
+      "position_rmse": 38.63418476693029,
+      "velocity_rmse": 2.195769587538474,
+      "position_peak": 423.08910785103444,
+      "velocity_peak": 20.692481472320363,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 39.876475694444444,
+      "laser_all_time": 69.86833767361111,
+      "position_coverage": 0.9185147504664178,
+      "velocity_coverage": 0.8412031962582919,
+      "event_position_rmse": 38.815004257712474,
+      "event_velocity_rmse": 2.5353790261759133,
+      "event_position_peak_mean": 66.74559713339312
+    },
+    {
+      "req": 500,
+      "name": "RIT",
+      "n": 768,
+      "position_rmse": 38.82043204470081,
+      "velocity_rmse": 2.223686371179999,
+      "position_peak": 335.75136731597695,
+      "velocity_peak": 19.11953927244391,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 36.74344618055556,
+      "laser_all_time": 66.73530815972222,
+      "position_coverage": 0.9185647284411277,
+      "velocity_coverage": 0.8413355423403814,
+      "event_position_rmse": 39.32885635125336,
+      "event_velocity_rmse": 2.564114409608435,
+      "event_position_peak_mean": 68.24193893556857
+    },
+    {
+      "req": 500,
+      "name": "NoGuard",
+      "n": 768,
+      "position_rmse": 82.98583599353636,
+      "velocity_rmse": 2.764465965418319,
+      "position_peak": 877.5146586820856,
+      "velocity_peak": 23.183069755182796,
+      "bad_arcs": 62,
+      "bad_fraction": 0.0020849204498341626,
+      "longest_bad": 72.4,
+      "laser_time": 24.533268229166666,
+      "laser_all_time": 54.52513020833334,
+      "position_coverage": 0.9173259354270314,
+      "velocity_coverage": 0.8529773981654228,
+      "event_position_rmse": 77.06234813004338,
+      "event_velocity_rmse": 2.9175725754894,
+      "event_position_peak_mean": 125.6340180993736
+    },
+    {
+      "req": 500,
+      "name": "SS8-GP",
+      "n": 768,
+      "position_rmse": 39.922813082767675,
+      "velocity_rmse": 2.231486994575093,
+      "position_peak": 405.88113145465775,
+      "velocity_peak": 22.77599377538888,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 35.65987413194444,
+      "laser_all_time": 65.6517361111111,
+      "position_coverage": 0.9154038401741293,
+      "velocity_coverage": 0.8367872875207297,
+      "event_position_rmse": 41.259242274064164,
+      "event_velocity_rmse": 2.598933491212021,
+      "event_position_peak_mean": 70.66989058196458
+    },
+    {
+      "req": 1000,
+      "name": "MSC-GP",
+      "n": 768,
+      "position_rmse": 92.16056645496282,
+      "velocity_rmse": 2.910810320231309,
+      "position_peak": 893.02202382767,
+      "velocity_peak": 25.552137843283653,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 23.562456597222223,
+      "laser_all_time": 53.55431857638888,
+      "position_coverage": 0.9142820403192372,
+      "velocity_coverage": 0.8520246424129353,
+      "event_position_rmse": 80.17107892789943,
+      "event_velocity_rmse": 2.9570616728135084,
+      "event_position_peak_mean": 132.5240146649106
+    },
+    {
+      "req": 1000,
+      "name": "Periodic",
+      "n": 768,
+      "position_rmse": 47.79692533944193,
+      "velocity_rmse": 2.4157298739381177,
+      "position_peak": 615.2254265013935,
+      "velocity_peak": 22.194918629500975,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 34.098719618055554,
+      "laser_all_time": 64.09058159722223,
+      "position_coverage": 0.9206601432939469,
+      "velocity_coverage": 0.8464061204394694,
+      "event_position_rmse": 50.669835055647376,
+      "event_velocity_rmse": 2.7896424285401396,
+      "event_position_peak_mean": 85.46943578781841
+    },
+    {
+      "req": 1000,
+      "name": "RIT",
+      "n": 768,
+      "position_rmse": 74.9845746862004,
+      "velocity_rmse": 2.8731550561950243,
+      "position_peak": 942.5391663991131,
+      "velocity_peak": 25.647944441408097,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 26.08361545138889,
+      "laser_all_time": 56.075477430555544,
+      "position_coverage": 0.9199250816231342,
+      "velocity_coverage": 0.8471737018034826,
+      "event_position_rmse": 56.5649551157293,
+      "event_velocity_rmse": 2.852164241731813,
+      "event_position_peak_mean": 99.56432819682196
+    },
+    {
+      "req": 1000,
+      "name": "NoGuard",
+      "n": 768,
+      "position_rmse": 99.59004703322937,
+      "velocity_rmse": 2.9739367868043773,
+      "position_peak": 1367.4650791980089,
+      "velocity_peak": 28.35427113200498,
+      "bad_arcs": 6,
+      "bad_fraction": 8.583385157545606e-05,
+      "longest_bad": 19.2,
+      "laser_time": 22.606857638888886,
+      "laser_all_time": 52.598719618055554,
+      "position_coverage": 0.9339516933561359,
+      "velocity_coverage": 0.8674870763370647,
+      "event_position_rmse": 84.25464554528756,
+      "event_velocity_rmse": 3.0027341867007076,
+      "event_position_peak_mean": 139.4695471448566
+    },
+    {
+      "req": 1000,
+      "name": "SS8-GP",
+      "n": 768,
+      "position_rmse": 92.93316573849548,
+      "velocity_rmse": 2.9355398629797924,
+      "position_peak": 1046.7171528756883,
+      "velocity_peak": 27.640458234457675,
+      "bad_arcs": 1,
+      "bad_fraction": 5.830223880597015e-06,
+      "longest_bad": 3.0,
+      "laser_time": 23.10466579861111,
+      "laser_all_time": 53.09652777777777,
+      "position_coverage": 0.9110979931073797,
+      "velocity_coverage": 0.8480306475435322,
+      "event_position_rmse": 79.67015926705427,
+      "event_velocity_rmse": 2.954852930987251,
+      "event_position_peak_mean": 131.45195725981046
+    },
+    {
+      "req": 1500,
+      "name": "MSC-GP",
+      "n": 768,
+      "position_rmse": 109.1668648782693,
+      "velocity_rmse": 3.0823076043097744,
+      "position_peak": 1146.60759860898,
+      "velocity_peak": 25.399775320762576,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 21.782552083333332,
+      "laser_all_time": 51.7744140625,
+      "position_coverage": 0.9335793687810945,
+      "velocity_coverage": 0.8677385857172472,
+      "event_position_rmse": 95.95673442609198,
+      "event_velocity_rmse": 3.1984321805134526,
+      "event_position_peak_mean": 159.79795618399814
+    },
+    {
+      "req": 1500,
+      "name": "Periodic",
+      "n": 768,
+      "position_rmse": 92.25025723326247,
+      "velocity_rmse": 3.040865395090057,
+      "position_peak": 1301.3582927214302,
+      "velocity_peak": 29.01757635042263,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 25.293229166666666,
+      "laser_all_time": 55.28509114583333,
+      "position_coverage": 0.9233908258188226,
+      "velocity_coverage": 0.8524710432213931,
+      "event_position_rmse": 78.40944839539617,
+      "event_velocity_rmse": 3.173662345185545,
+      "event_position_peak_mean": 133.3963473324878
+    },
+    {
+      "req": 1500,
+      "name": "RIT",
+      "n": 768,
+      "position_rmse": 140.63243892804465,
+      "velocity_rmse": 3.4794517487661607,
+      "position_peak": 1472.6216756456129,
+      "velocity_peak": 25.1067810038868,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 21.497526041666664,
+      "laser_all_time": 51.48938802083334,
+      "position_coverage": 0.9152094993781094,
+      "velocity_coverage": 0.851881478026534,
+      "event_position_rmse": 114.12425001510847,
+      "event_velocity_rmse": 3.537674120212694,
+      "event_position_peak_mean": 185.00174573303912
+    },
+    {
+      "req": 1500,
+      "name": "NoGuard",
+      "n": 768,
+      "position_rmse": 157.27440943708083,
+      "velocity_rmse": 3.3685333036150613,
+      "position_peak": 1639.7455088138677,
+      "velocity_peak": 24.80512666166811,
+      "bad_arcs": 9,
+      "bad_fraction": 0.0001224670916252073,
+      "longest_bad": 19.9,
+      "laser_time": 20.25900607638889,
+      "laser_all_time": 50.250868055555564,
+      "position_coverage": 0.9337851432939469,
+      "velocity_coverage": 0.8709270703772803,
+      "event_position_rmse": 118.15350399478078,
+      "event_velocity_rmse": 3.429405339851555,
+      "event_position_peak_mean": 196.11788009398185
+    },
+    {
+      "req": 1500,
+      "name": "SS8-GP",
+      "n": 768,
+      "position_rmse": 112.1793318357216,
+      "velocity_rmse": 3.1503340848301526,
+      "position_peak": 1702.5705989177134,
+      "velocity_peak": 36.07883355916645,
+      "bad_arcs": 1,
+      "bad_fraction": 1.2826492537313434e-05,
+      "longest_bad": 6.6,
+      "laser_time": 21.285004340277776,
+      "laser_all_time": 51.276866319444444,
+      "position_coverage": 0.9293627565298507,
+      "velocity_coverage": 0.8626936929933665,
+      "event_position_rmse": 96.35207563457983,
+      "event_velocity_rmse": 3.2106070045994826,
+      "event_position_peak_mean": 162.02707884745962
+    }
+  ],
+  "effects": [
+    {
+      "req": 500,
+      "a": "MSC-GP",
+      "b": "Periodic",
+      "position_difference": 0.8826759892962883,
+      "position_ci": [
+        0.004808962980557753,
+        1.6988004238738712
+      ],
+      "velocity_difference": 0.010909990175116846,
+      "velocity_ci": [
+        -0.005874769073538255,
+        0.02739368004332716
+      ],
+      "time_difference": -3.7019097222222115,
+      "time_ci": [
+        -3.991204427083313,
+        -3.382766927083334
+      ],
+      "saving": 9.283442575488078,
+      "saving_ci": [
+        8.297483212146135,
+        10.297455653235263
+      ]
+    },
+    {
+      "req": 500,
+      "a": "MSC-GP",
+      "b": "RIT",
+      "position_difference": 0.6964287115257619,
+      "position_ci": [
+        -0.06696554538298025,
+        1.4461899288205058
+      ],
+      "velocity_difference": -0.017006793466407988,
+      "velocity_ci": [
+        -0.031525061546674005,
+        -0.0028650787382610145
+      ],
+      "time_difference": -0.56888020833334,
+      "time_ci": [
+        -0.989295789930576,
+        -0.14841525607639577
+      ],
+      "saving": 1.5482494634223687,
+      "saving_ci": [
+        0.3947417343634971,
+        2.7731799014002663
+      ]
+    },
+    {
+      "req": 500,
+      "a": "MSC-GP",
+      "b": "NoGuard",
+      "position_difference": -43.46897523730979,
+      "position_ci": [
+        -51.02330254798069,
+        -36.00224110242118
+      ],
+      "velocity_difference": -0.5577863877047275,
+      "velocity_ci": [
+        -0.6541873100900324,
+        -0.45980270001469303
+      ],
+      "time_difference": 11.641297743055553,
+      "time_ci": [
+        11.509262695312493,
+        11.783837890624994
+      ],
+      "saving": -47.451067808469375,
+      "saving_ci": [
+        -51.20287493832389,
+        -44.25959099446699
+      ]
+    },
+    {
+      "req": 500,
+      "a": "MSC-GP",
+      "b": "SS8-GP",
+      "position_difference": -0.40595232654110447,
+      "position_ci": [
+        -0.8024549725339665,
+        -0.019682976841637275
+      ],
+      "velocity_difference": -0.02480741686150134,
+      "velocity_ci": [
+        -0.044135692098622614,
+        -0.006914639049837983
+      ],
+      "time_difference": 0.5146918402777771,
+      "time_ci": [
+        0.3075482855902994,
+        0.7097694227430518
+      ],
+      "saving": -1.443336110423088,
+      "saving_ci": [
+        -1.982223261083016,
+        -0.8715558027054392
+      ]
+    },
+    {
+      "req": 1000,
+      "a": "MSC-GP",
+      "b": "Periodic",
+      "position_difference": 44.36364111552089,
+      "position_ci": [
+        35.49313336490391,
+        53.22767952857934
+      ],
+      "velocity_difference": 0.4950804462931919,
+      "velocity_ci": [
+        0.38475264043465796,
+        0.6155491752607223
+      ],
+      "time_difference": -10.536263020833331,
+      "time_ci": [
+        -10.789938693576373,
+        -10.291654188368053
+      ],
+      "saving": 30.89929222812898,
+      "saving_ci": [
+        29.182826963897696,
+        32.82727934408555
+      ]
+    },
+    {
+      "req": 1000,
+      "a": "MSC-GP",
+      "b": "RIT",
+      "position_difference": 17.1759917687624,
+      "position_ci": [
+        10.122427139827408,
+        24.19058045787662
+      ],
+      "velocity_difference": 0.037655264036284386,
+      "velocity_ci": [
+        -0.012734667226631358,
+        0.08862326109535336
+      ],
+      "time_difference": -2.5211588541666643,
+      "time_ci": [
+        -2.8751931423611055,
+        -2.1821961805555508
+      ],
+      "saving": 9.665680200144255,
+      "saving_ci": [
+        8.006173779328016,
+        11.531525736343331
+      ]
+    },
+    {
+      "req": 1000,
+      "a": "MSC-GP",
+      "b": "NoGuard",
+      "position_difference": -7.429480578266549,
+      "position_ci": [
+        -12.838762930759602,
+        -1.1886519310820314
+      ],
+      "velocity_difference": -0.0631264665730682,
+      "velocity_ci": [
+        -0.11923907929055896,
+        -0.0035451009790903047
+      ],
+      "time_difference": 0.9555989583333435,
+      "time_ci": [
+        0.8493674045138856,
+        1.061178385416668
+      ],
+      "saving": -4.227031344194865,
+      "saving_ci": [
+        -4.974471814571425,
+        -3.586375127908927
+      ]
+    },
+    {
+      "req": 1000,
+      "a": "MSC-GP",
+      "b": "SS8-GP",
+      "position_difference": -0.7725992835326565,
+      "position_ci": [
+        -2.0670169018962428,
+        0.4529283376030116
+      ],
+      "velocity_difference": -0.02472954274848327,
+      "velocity_ci": [
+        -0.06291653924589219,
+        0.013549957410421812
+      ],
+      "time_difference": 0.4577907986111036,
+      "time_ci": [
+        0.25344509548611766,
+        0.6544981553819416
+      ],
+      "saving": -1.9813781450092272,
+      "saving_ci": [
+        -2.7897605153934175,
+        -1.1039735596951377
+      ]
+    },
+    {
+      "req": 1500,
+      "a": "MSC-GP",
+      "b": "Periodic",
+      "position_difference": 16.916607645006863,
+      "position_ci": [
+        10.882977885875878,
+        23.76194671849958
+      ],
+      "velocity_difference": 0.04144220921971886,
+      "velocity_ci": [
+        -0.08180470074287192,
+        0.17669033382684113
+      ],
+      "time_difference": -3.510677083333327,
+      "time_ci": [
+        -3.7012445746527733,
+        -3.3227365451388753
+      ],
+      "saving": 13.879908572369892,
+      "saving_ci": [
+        12.589100962385956,
+        15.327836634467038
+      ]
+    },
+    {
+      "req": 1500,
+      "a": "MSC-GP",
+      "b": "RIT",
+      "position_difference": -31.465574049775313,
+      "position_ci": [
+        -41.85401794329127,
+        -20.147305500478662
+      ],
+      "velocity_difference": -0.3971441444563859,
+      "velocity_ci": [
+        -0.571966381202533,
+        -0.21599111840879753
+      ],
+      "time_difference": 0.2850260416666721,
+      "time_ci": [
+        -0.10885796440971544,
+        0.6751177300347229
+      ],
+      "saving": -1.3258550826463988,
+      "saving_ci": [
+        -3.0007457857803486,
+        0.5314650489278183
+      ]
+    },
+    {
+      "req": 1500,
+      "a": "MSC-GP",
+      "b": "NoGuard",
+      "position_difference": -48.107544558811526,
+      "position_ci": [
+        -66.07867269078812,
+        -31.891674782688398
+      ],
+      "velocity_difference": -0.2862256993052861,
+      "velocity_ci": [
+        -0.4190194496601178,
+        -0.16452296745691541
+      ],
+      "time_difference": 1.5235460069444464,
+      "time_ci": [
+        1.388169487847226,
+        1.6639002821180615
+      ],
+      "saving": -7.520339355246475,
+      "saving_ci": [
+        -8.43143037496461,
+        -6.660420944587146
+      ]
+    },
+    {
+      "req": 1500,
+      "a": "MSC-GP",
+      "b": "SS8-GP",
+      "position_difference": -3.0124669574522898,
+      "position_ci": [
+        -5.504481081852225,
+        -0.5189722848418125
+      ],
+      "velocity_difference": -0.06802648052037741,
+      "velocity_ci": [
+        -0.12278125228910101,
+        -0.012666036628586355
+      ],
+      "time_difference": 0.49754774305555216,
+      "time_ci": [
+        0.303238932291666,
+        0.6868386501736111
+      ],
+      "saving": -2.337550583036707,
+      "saving_ci": [
+        -3.1905010733552075,
+        -1.4426826879597
+      ]
+    }
+  ],
+  "estimators": [
+    {
+      "req": 500,
+      "source": "MSC-GP",
+      "name": "MSC-GP estimator",
+      "n": 768,
+      "position_rmse": 39.51686075622658,
+      "velocity_rmse": 2.2066795777135915,
+      "position_peak": 386.3610751649422,
+      "velocity_peak": 18.5507705441477,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 36.17456597222222,
+      "laser_all_time": 66.16642795138888,
+      "position_coverage": 0.9185755143553068,
+      "velocity_coverage": 0.8415204899979271,
+      "event_position_rmse": 40.664741653446,
+      "event_velocity_rmse": 2.576176119094556,
+      "event_position_peak_mean": 70.1769477822122
+    },
+    {
+      "req": 500,
+      "source": "MSC-GP",
+      "name": "EKF",
+      "n": 768,
+      "position_rmse": 36.590468917334654,
+      "velocity_rmse": 1.7544832939245936,
+      "position_peak": 392.7964385952259,
+      "velocity_peak": 10.991246535350646,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 36.17456597222222,
+      "laser_all_time": 66.16642795138888,
+      "position_coverage": 0.8965814158374793,
+      "velocity_coverage": 0.8413307162106136,
+      "event_position_rmse": 37.76135178167159,
+      "event_velocity_rmse": 2.679213402169864,
+      "event_position_peak_mean": 64.45484227052148
+    },
+    {
+      "req": 500,
+      "source": "MSC-GP",
+      "name": "IMM-EKF",
+      "n": 768,
+      "position_rmse": 33.7176188668829,
+      "velocity_rmse": 1.7725851106168116,
+      "position_peak": 366.6028637229055,
+      "velocity_peak": 10.585116062980925,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 36.17456597222222,
+      "laser_all_time": 66.16642795138888,
+      "position_coverage": 0.9764448914282752,
+      "velocity_coverage": 0.8933951660966004,
+      "event_position_rmse": 35.38657771910501,
+      "event_velocity_rmse": 2.2036436722896524,
+      "event_position_peak_mean": 63.33659140541272
+    },
+    {
+      "req": 500,
+      "source": "Periodic",
+      "name": "MSC-GP estimator",
+      "n": 768,
+      "position_rmse": 38.63418476693029,
+      "velocity_rmse": 2.195769587538474,
+      "position_peak": 423.08910785103444,
+      "velocity_peak": 20.692481472320363,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 39.876475694444444,
+      "laser_all_time": 69.86833767361111,
+      "position_coverage": 0.9185147504664178,
+      "velocity_coverage": 0.8412031962582919,
+      "event_position_rmse": 38.815004257712474,
+      "event_velocity_rmse": 2.5353790261759133,
+      "event_position_peak_mean": 66.74559713339312
+    },
+    {
+      "req": 500,
+      "source": "Periodic",
+      "name": "EKF",
+      "n": 768,
+      "position_rmse": 34.57583176008126,
+      "velocity_rmse": 1.7166854209958398,
+      "position_peak": 334.8636793256078,
+      "velocity_peak": 11.00713897240571,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 39.876475694444444,
+      "laser_all_time": 69.86833767361111,
+      "position_coverage": 0.8973150523424543,
+      "velocity_coverage": 0.8426116163971807,
+      "event_position_rmse": 36.53352346151606,
+      "event_velocity_rmse": 2.6547419422638865,
+      "event_position_peak_mean": 61.33682863763686
+    },
+    {
+      "req": 500,
+      "source": "Periodic",
+      "name": "IMM-EKF",
+      "n": 768,
+      "position_rmse": 32.0211064709375,
+      "velocity_rmse": 1.7372612618725154,
+      "position_peak": 277.87792237571927,
+      "velocity_peak": 10.365856163687512,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 39.876475694444444,
+      "laser_all_time": 69.86833767361111,
+      "position_coverage": 0.9788156224087894,
+      "velocity_coverage": 0.8958294465174129,
+      "event_position_rmse": 33.264099955945845,
+      "event_velocity_rmse": 2.1582519482004776,
+      "event_position_peak_mean": 59.09442636361004
+    },
+    {
+      "req": 1000,
+      "source": "MSC-GP",
+      "name": "MSC-GP estimator",
+      "n": 768,
+      "position_rmse": 92.16056645496282,
+      "velocity_rmse": 2.910810320231309,
+      "position_peak": 893.02202382767,
+      "velocity_peak": 25.552137843283653,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 23.562456597222223,
+      "laser_all_time": 53.55431857638888,
+      "position_coverage": 0.9142820403192372,
+      "velocity_coverage": 0.8520246424129353,
+      "event_position_rmse": 80.17107892789943,
+      "event_velocity_rmse": 2.9570616728135084,
+      "event_position_peak_mean": 132.5240146649106
+    },
+    {
+      "req": 1000,
+      "source": "MSC-GP",
+      "name": "EKF",
+      "n": 768,
+      "position_rmse": 96.4949025316585,
+      "velocity_rmse": 2.2387424778528007,
+      "position_peak": 1189.6321672840322,
+      "velocity_peak": 12.596299567746435,
+      "bad_arcs": 17,
+      "bad_fraction": 0.00047794879767827533,
+      "longest_bad": 30.1,
+      "laser_time": 23.562456597222223,
+      "laser_all_time": 53.55431857638888,
+      "position_coverage": 0.8711371851679104,
+      "velocity_coverage": 0.816323719941957,
+      "event_position_rmse": 84.46414871964326,
+      "event_velocity_rmse": 2.9181049152155545,
+      "event_position_peak_mean": 104.5527555559912
+    },
+    {
+      "req": 1000,
+      "source": "MSC-GP",
+      "name": "IMM-EKF",
+      "n": 768,
+      "position_rmse": 82.97408021719461,
+      "velocity_rmse": 2.3751405009866424,
+      "position_peak": 1078.1149209772118,
+      "velocity_peak": 20.49906042309506,
+      "bad_arcs": 1,
+      "bad_fraction": 6.607587064676616e-06,
+      "longest_bad": 3.4,
+      "laser_time": 23.562456597222223,
+      "laser_all_time": 53.55431857638888,
+      "position_coverage": 0.9679658348880599,
+      "velocity_coverage": 0.8969478454083747,
+      "event_position_rmse": 80.30119994974952,
+      "event_velocity_rmse": 2.7093813484719167,
+      "event_position_peak_mean": 126.66955804456127
+    },
+    {
+      "req": 1000,
+      "source": "Periodic",
+      "name": "MSC-GP estimator",
+      "n": 768,
+      "position_rmse": 47.79692533944193,
+      "velocity_rmse": 2.4157298739381177,
+      "position_peak": 615.2254265013935,
+      "velocity_peak": 22.194918629500975,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 34.098719618055554,
+      "laser_all_time": 64.09058159722223,
+      "position_coverage": 0.9206601432939469,
+      "velocity_coverage": 0.8464061204394694,
+      "event_position_rmse": 50.669835055647376,
+      "event_velocity_rmse": 2.7896424285401396,
+      "event_position_peak_mean": 85.46943578781841
+    },
+    {
+      "req": 1000,
+      "source": "Periodic",
+      "name": "EKF",
+      "n": 768,
+      "position_rmse": 40.88538079045925,
+      "velocity_rmse": 1.807819630844663,
+      "position_peak": 398.289019661689,
+      "velocity_peak": 11.868570733235861,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 34.098719618055554,
+      "laser_all_time": 64.09058159722223,
+      "position_coverage": 0.8937223064365671,
+      "velocity_coverage": 0.838156224087894,
+      "event_position_rmse": 46.92336256890303,
+      "event_velocity_rmse": 2.82251194803001,
+      "event_position_peak_mean": 76.2330750879202
+    },
+    {
+      "req": 1000,
+      "source": "Periodic",
+      "name": "IMM-EKF",
+      "n": 768,
+      "position_rmse": 39.19928287458589,
+      "velocity_rmse": 1.8876686939799505,
+      "position_peak": 362.75485131630927,
+      "velocity_peak": 11.969953649450892,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 34.098719618055554,
+      "laser_all_time": 64.09058159722223,
+      "position_coverage": 0.9760203863495024,
+      "velocity_coverage": 0.8929758758291874,
+      "event_position_rmse": 45.114294299012855,
+      "event_velocity_rmse": 2.414460659803894,
+      "event_position_peak_mean": 75.86097043927461
+    },
+    {
+      "req": 1500,
+      "source": "MSC-GP",
+      "name": "MSC-GP estimator",
+      "n": 768,
+      "position_rmse": 109.1668648782693,
+      "velocity_rmse": 3.0823076043097744,
+      "position_peak": 1146.60759860898,
+      "velocity_peak": 25.399775320762576,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 21.782552083333332,
+      "laser_all_time": 51.7744140625,
+      "position_coverage": 0.9335793687810945,
+      "velocity_coverage": 0.8677385857172472,
+      "event_position_rmse": 95.95673442609198,
+      "event_velocity_rmse": 3.1984321805134526,
+      "event_position_peak_mean": 159.79795618399814
+    },
+    {
+      "req": 1500,
+      "source": "MSC-GP",
+      "name": "EKF",
+      "n": 768,
+      "position_rmse": 100.27494885366835,
+      "velocity_rmse": 2.38629379858686,
+      "position_peak": 1163.9271744393398,
+      "velocity_peak": 12.643981560265978,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 21.782552083333332,
+      "laser_all_time": 51.7744140625,
+      "position_coverage": 0.868568906768242,
+      "velocity_coverage": 0.8092920812603648,
+      "event_position_rmse": 78.8305810971628,
+      "event_velocity_rmse": 2.964416759464386,
+      "event_position_peak_mean": 105.8316993664796
+    },
+    {
+      "req": 1500,
+      "source": "MSC-GP",
+      "name": "IMM-EKF",
+      "n": 768,
+      "position_rmse": 100.63159991581718,
+      "velocity_rmse": 2.663826115975809,
+      "position_peak": 1286.88597794299,
+      "velocity_peak": 19.730189801265027,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 21.782552083333332,
+      "laser_all_time": 51.7744140625,
+      "position_coverage": 0.9687423883188225,
+      "velocity_coverage": 0.9048585199004974,
+      "event_position_rmse": 93.80239048244458,
+      "event_velocity_rmse": 2.936693710045685,
+      "event_position_peak_mean": 144.25001548922148
+    },
+    {
+      "req": 1500,
+      "source": "Periodic",
+      "name": "MSC-GP estimator",
+      "n": 768,
+      "position_rmse": 92.25025723326247,
+      "velocity_rmse": 3.040865395090057,
+      "position_peak": 1301.3582927214302,
+      "velocity_peak": 29.01757635042263,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 25.293229166666666,
+      "laser_all_time": 55.28509114583333,
+      "position_coverage": 0.9233908258188226,
+      "velocity_coverage": 0.8524710432213931,
+      "event_position_rmse": 78.40944839539617,
+      "event_velocity_rmse": 3.173662345185545,
+      "event_position_peak_mean": 133.3963473324878
+    },
+    {
+      "req": 1500,
+      "source": "Periodic",
+      "name": "EKF",
+      "n": 768,
+      "position_rmse": 70.29613630984375,
+      "velocity_rmse": 2.110929823083426,
+      "position_peak": 729.8621833540931,
+      "velocity_peak": 12.494090871406545,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 25.293229166666666,
+      "laser_all_time": 55.28509114583333,
+      "position_coverage": 0.8777842234141792,
+      "velocity_coverage": 0.8199349930037313,
+      "event_position_rmse": 55.21589039579087,
+      "event_velocity_rmse": 2.9244426157429646,
+      "event_position_peak_mean": 86.2414684932716
+    },
+    {
+      "req": 1500,
+      "source": "Periodic",
+      "name": "IMM-EKF",
+      "n": 768,
+      "position_rmse": 73.17497059142316,
+      "velocity_rmse": 2.3670821684439534,
+      "position_peak": 778.9934405725189,
+      "velocity_peak": 15.581371414418628,
+      "bad_arcs": 0,
+      "bad_fraction": 0.0,
+      "longest_bad": 0.0,
+      "laser_time": 25.293229166666666,
+      "laser_all_time": 55.28509114583333,
+      "position_coverage": 0.9705375790319236,
+      "velocity_coverage": 0.8946110592868989,
+      "event_position_rmse": 73.66457062413527,
+      "event_velocity_rmse": 2.791544633961921,
+      "event_position_peak_mean": 114.55188543617572
+    }
+  ],
+  "estimator_effects": [
+    {
+      "req": 500,
+      "source": "MSC-GP",
+      "a": "MSC-GP estimator",
+      "b": "EKF",
+      "position_difference": 2.9263918388919308,
+      "position_ci": [
+        1.531032799909405,
+        4.324829201335223
+      ],
+      "velocity_difference": 0.4521962837889977,
+      "velocity_ci": [
+        0.38972063193990236,
+        0.5161913362258483
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 500,
+      "source": "MSC-GP",
+      "a": "MSC-GP estimator",
+      "b": "IMM-EKF",
+      "position_difference": 5.799241889343676,
+      "position_ci": [
+        4.197123868043177,
+        7.411005663543884
+      ],
+      "velocity_difference": 0.43409446709677924,
+      "velocity_ci": [
+        0.37010892887122915,
+        0.49612643706969084
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 500,
+      "source": "Periodic",
+      "a": "MSC-GP estimator",
+      "b": "EKF",
+      "position_difference": 4.058353006849025,
+      "position_ci": [
+        2.4144268518076046,
+        5.663525785392797
+      ],
+      "velocity_difference": 0.4790841665426344,
+      "velocity_ci": [
+        0.41208352752659116,
+        0.5457087825388123
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 500,
+      "source": "Periodic",
+      "a": "MSC-GP estimator",
+      "b": "IMM-EKF",
+      "position_difference": 6.613078295992786,
+      "position_ci": [
+        4.797160520086418,
+        8.43087803457598
+      ],
+      "velocity_difference": 0.4585083256659588,
+      "velocity_ci": [
+        0.39001140608909995,
+        0.5267193714050951
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1000,
+      "source": "MSC-GP",
+      "a": "MSC-GP estimator",
+      "b": "EKF",
+      "position_difference": -4.334336076695678,
+      "position_ci": [
+        -14.218140333138956,
+        7.071200591052886
+      ],
+      "velocity_difference": 0.6720678423785085,
+      "velocity_ci": [
+        0.5353254527572664,
+        0.826689283153724
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1000,
+      "source": "MSC-GP",
+      "a": "MSC-GP estimator",
+      "b": "IMM-EKF",
+      "position_difference": 9.186486237768207,
+      "position_ci": [
+        4.507556474210865,
+        14.214686026861195
+      ],
+      "velocity_difference": 0.5356698192446663,
+      "velocity_ci": [
+        0.42355023104799355,
+        0.6537030179773071
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1000,
+      "source": "Periodic",
+      "a": "MSC-GP estimator",
+      "b": "EKF",
+      "position_difference": 6.9115445489826755,
+      "position_ci": [
+        5.140309314205537,
+        8.592090902499486
+      ],
+      "velocity_difference": 0.6079102430934542,
+      "velocity_ci": [
+        0.5375169678165169,
+        0.6786546206461493
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1000,
+      "source": "Periodic",
+      "a": "MSC-GP estimator",
+      "b": "IMM-EKF",
+      "position_difference": 8.597642464856044,
+      "position_ci": [
+        6.68281251559794,
+        10.479770198518175
+      ],
+      "velocity_difference": 0.5280611799581669,
+      "velocity_ci": [
+        0.4554862894628473,
+        0.5995344884055753
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1500,
+      "source": "MSC-GP",
+      "a": "MSC-GP estimator",
+      "b": "EKF",
+      "position_difference": 8.891916024600945,
+      "position_ci": [
+        1.7378289620154923,
+        17.273884214789337
+      ],
+      "velocity_difference": 0.6960138057229148,
+      "velocity_ci": [
+        0.5777962099863455,
+        0.833842750991057
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1500,
+      "source": "MSC-GP",
+      "a": "MSC-GP estimator",
+      "b": "IMM-EKF",
+      "position_difference": 8.535264962452118,
+      "position_ci": [
+        5.284442835295646,
+        11.773264771822854
+      ],
+      "velocity_difference": 0.4184814883339656,
+      "velocity_ci": [
+        0.3507425872795684,
+        0.48672092589371013
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1500,
+      "source": "Periodic",
+      "a": "MSC-GP estimator",
+      "b": "EKF",
+      "position_difference": 21.954120923418685,
+      "position_ci": [
+        15.61085989649668,
+        28.59688369104981
+      ],
+      "velocity_difference": 0.9299355720066296,
+      "velocity_ci": [
+        0.7867639920333455,
+        1.0881239102438596
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "req": 1500,
+      "source": "Periodic",
+      "a": "MSC-GP estimator",
+      "b": "IMM-EKF",
+      "position_difference": 19.075286641839284,
+      "position_ci": [
+        15.139916384482683,
+        23.524394353239906
+      ],
+      "velocity_difference": 0.673783226646103,
+      "velocity_ci": [
+        0.5673433541138262,
+        0.7921883215230326
+      ],
+      "time_difference": 0.0,
+      "time_ci": [
+        0.0,
+        0.0
+      ],
+      "saving": 0.0,
+      "saving_ci": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "detection": [
+    {
+      "name": "MSC16",
+      "n_events": 2304,
+      "tp": 1410,
+      "fp": 1282,
+      "fn": 894,
+      "precision": 0.5237741456166419,
+      "recall": 0.6119791666666666,
+      "f1": 0.5644515612489992,
+      "delay_median": 31.0,
+      "delay_p95": 56.0,
+      "late": 1010,
+      "repeat": 0,
+      "unassociated": 272
+    },
+    {
+      "name": "SS2",
+      "n_events": 2304,
+      "tp": 1280,
+      "fp": 920,
+      "fn": 1024,
+      "precision": 0.5818181818181818,
+      "recall": 0.5555555555555556,
+      "f1": 0.5683836589698046,
+      "delay_median": 33.0,
+      "delay_p95": 56.0,
+      "late": 757,
+      "repeat": 0,
+      "unassociated": 163
+    },
+    {
+      "name": "SS8",
+      "n_events": 2304,
+      "tp": 1391,
+      "fp": 1229,
+      "fn": 913,
+      "precision": 0.5309160305343511,
+      "recall": 0.6037326388888888,
+      "f1": 0.5649878147847278,
+      "delay_median": 31.0,
+      "delay_p95": 56.0,
+      "late": 961,
+      "repeat": 0,
+      "unassociated": 268
+    },
+    {
+      "name": "SS30",
+      "n_events": 2304,
+      "tp": 1425,
+      "fp": 1420,
+      "fn": 879,
+      "precision": 0.5008787346221442,
+      "recall": 0.6184895833333334,
+      "f1": 0.5535055350553506,
+      "delay_median": 33.0,
+      "delay_p95": 56.0,
+      "late": 1079,
+      "repeat": 0,
+      "unassociated": 341
+    }
+  ],
+  "detection_effects": [
+    {
+      "a": "MSC16",
+      "b": "SS2",
+      "f1_difference": -0.3932097720805383,
+      "f1_ci": [
+        -3.650081174007252,
+        3.164042072619274
+      ],
+      "recall_difference": 5.642361111111105,
+      "recall_ci": [
+        2.777777777777779,
+        8.59375
+      ],
+      "common": 1173,
+      "delay_difference": -4.092924126172208
+    },
+    {
+      "a": "MSC16",
+      "b": "SS8",
+      "f1_difference": -0.05362535357286147,
+      "f1_ci": [
+        -1.1864809549216646,
+        1.1568093353931401
+      ],
+      "recall_difference": 0.824652777777779,
+      "recall_ci": [
+        -0.347222222222221,
+        2.039930555555547
+      ],
+      "common": 1328,
+      "delay_difference": -0.5451807228915663
+    },
+    {
+      "a": "MSC16",
+      "b": "SS30",
+      "f1_difference": 1.0946026193648595,
+      "f1_ci": [
+        -0.3876740654232871,
+        2.6259854215174827
+      ],
+      "recall_difference": -0.6510416666666741,
+      "recall_ci": [
+        -2.039930555555558,
+        0.737847222222221
+      ],
+      "common": 1302,
+      "delay_difference": -1.4854070660522274
+    }
+  ],
+  "null": [
+    {
+      "freq": 5,
+      "name": "MSC16",
+      "threshold": 16.39468468635417,
+      "calibration_count": 4,
+      "check_count": 6,
+      "exposure": 11.377777777777778,
+      "rate": 0.52734375,
+      "ci": [
+        0.17578125,
+        0.966796875
+      ]
+    },
+    {
+      "freq": 5,
+      "name": "SS2",
+      "threshold": 12.337686603263528,
+      "calibration_count": 4,
+      "check_count": 3,
+      "exposure": 11.377777777777778,
+      "rate": 0.263671875,
+      "ci": [
+        0.0,
+        0.615234375
+      ]
+    },
+    {
+      "freq": 5,
+      "name": "SS8",
+      "threshold": 14.088110744300671,
+      "calibration_count": 5,
+      "check_count": 11,
+      "exposure": 11.377777777777778,
+      "rate": 0.966796875,
+      "ci": [
+        0.52734375,
+        1.494140625
+      ]
+    },
+    {
+      "freq": 5,
+      "name": "SS30",
+      "threshold": 14.912368387182314,
+      "calibration_count": 5,
+      "check_count": 3,
+      "exposure": 11.377777777777778,
+      "rate": 0.263671875,
+      "ci": [
+        0.0,
+        0.615234375
+      ]
+    },
+    {
+      "freq": 10,
+      "name": "MSC16",
+      "threshold": 16.086878417804847,
+      "calibration_count": 5,
+      "check_count": 5,
+      "exposure": 11.377777777777778,
+      "rate": 0.439453125,
+      "ci": [
+        0.087890625,
+        0.87890625
+      ]
+    },
+    {
+      "freq": 10,
+      "name": "SS2",
+      "threshold": 12.106049499620882,
+      "calibration_count": 5,
+      "check_count": 6,
+      "exposure": 11.377777777777778,
+      "rate": 0.52734375,
+      "ci": [
+        0.17578125,
+        0.966796875
+      ]
+    },
+    {
+      "freq": 10,
+      "name": "SS8",
+      "threshold": 14.088110744300671,
+      "calibration_count": 5,
+      "check_count": 3,
+      "exposure": 11.377777777777778,
+      "rate": 0.263671875,
+      "ci": [
+        0.0,
+        0.615234375
+      ]
+    },
+    {
+      "freq": 10,
+      "name": "SS30",
+      "threshold": 13.823609847694701,
+      "calibration_count": 5,
+      "check_count": 4,
+      "exposure": 11.377777777777778,
+      "rate": 0.3515625,
+      "ci": [
+        0.087890625,
+        0.703125
+      ]
+    },
+    {
+      "freq": 15,
+      "name": "MSC16",
+      "threshold": 18.024345897731873,
+      "calibration_count": 4,
+      "check_count": 2,
+      "exposure": 11.377777777777778,
+      "rate": 0.17578125,
+      "ci": [
+        0.0,
+        0.439453125
+      ]
+    },
+    {
+      "freq": 15,
+      "name": "SS2",
+      "threshold": 11.22218152976164,
+      "calibration_count": 5,
+      "check_count": 2,
+      "exposure": 11.377777777777778,
+      "rate": 0.17578125,
+      "ci": [
+        0.0,
+        0.439453125
+      ]
+    },
+    {
+      "freq": 15,
+      "name": "SS8",
+      "threshold": 15.197701585412444,
+      "calibration_count": 5,
+      "check_count": 5,
+      "exposure": 11.377777777777778,
+      "rate": 0.439453125,
+      "ci": [
+        0.087890625,
+        0.791015625
+      ]
+    },
+    {
+      "freq": 15,
+      "name": "SS30",
+      "threshold": 17.35389379541295,
+      "calibration_count": 5,
+      "check_count": 2,
+      "exposure": 11.377777777777778,
+      "rate": 0.17578125,
+      "ci": [
+        0.0,
+        0.439453125
+      ]
+    },
+    {
+      "freq": 20,
+      "name": "MSC16",
+      "threshold": 17.028078606151436,
+      "calibration_count": 5,
+      "check_count": 2,
+      "exposure": 11.377777777777778,
+      "rate": 0.17578125,
+      "ci": [
+        0.0,
+        0.439453125
+      ]
+    },
+    {
+      "freq": 20,
+      "name": "SS2",
+      "threshold": 12.337686603263528,
+      "calibration_count": 5,
+      "check_count": 4,
+      "exposure": 11.377777777777778,
+      "rate": 0.3515625,
+      "ci": [
+        0.087890625,
+        0.703125
+      ]
+    },
+    {
+      "freq": 20,
+      "name": "SS8",
+      "threshold": 15.784851138041876,
+      "calibration_count": 5,
+      "check_count": 3,
+      "exposure": 11.377777777777778,
+      "rate": 0.263671875,
+      "ci": [
+        0.0,
+        0.615234375
+      ]
+    },
+    {
+      "freq": 20,
+      "name": "SS30",
+      "threshold": 14.088110744300671,
+      "calibration_count": 5,
+      "check_count": 3,
+      "exposure": 11.377777777777778,
+      "rate": 0.263671875,
+      "ci": [
+        0.0,
+        0.615234375
+      ]
+    }
+  ]
+}

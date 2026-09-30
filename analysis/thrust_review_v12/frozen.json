@@ -1,0 +1,196 @@
+{
+  "gp": {
+    "500": {
+      "name": "gp_500_10_1",
+      "control": "gp",
+      "req": 500,
+      "detector": "MSC16",
+      "margin": 1,
+      "guard": 10,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30
+    },
+    "1000": {
+      "name": "gp_1000_2_0.75",
+      "control": "gp",
+      "req": 1000,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 2,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30
+    },
+    "1500": {
+      "name": "gp_1500_5_1",
+      "control": "gp",
+      "req": 1500,
+      "detector": "MSC16",
+      "margin": 1,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30
+    }
+  },
+  "period": {
+    "500": {
+      "name": "period_30_1_0",
+      "control": "period",
+      "req": 500,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30
+    },
+    "1000": {
+      "name": "period_40_1_0",
+      "control": "period",
+      "req": 1000,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 40,
+      "window": 1,
+      "phase": 0,
+      "gap": 30
+    },
+    "1500": {
+      "name": "period_80_1_0",
+      "control": "period",
+      "req": 1500,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 80,
+      "window": 1,
+      "phase": 0,
+      "gap": 30
+    }
+  },
+  "rit": {
+    "500": {
+      "name": "rit_30",
+      "control": "rit",
+      "req": 500,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30
+    },
+    "1000": {
+      "name": "rit_60",
+      "control": "rit",
+      "req": 1000,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 60
+    },
+    "1500": {
+      "name": "rit_100",
+      "control": "rit",
+      "req": 1500,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 100
+    }
+  },
+  "detector": {
+    "detector": "MSC16",
+    "candidates": [
+      {
+        "detector": "MSC10",
+        "tp": 110,
+        "fp": 106,
+        "fn": 82,
+        "f1": 0.5392156862745098
+      },
+      {
+        "detector": "MSC16",
+        "tp": 115,
+        "fp": 111,
+        "fn": 77,
+        "f1": 0.5502392344497608
+      },
+      {
+        "detector": "MSC30",
+        "tp": 115,
+        "fp": 125,
+        "fn": 77,
+        "f1": 0.5324074074074074
+      },
+      {
+        "detector": "SS2",
+        "tp": 100,
+        "fp": 76,
+        "fn": 92,
+        "f1": 0.5434782608695652
+      },
+      {
+        "detector": "SS30",
+        "tp": 117,
+        "fp": 118,
+        "fn": 75,
+        "f1": 0.5480093676814989
+      },
+      {
+        "detector": "SS8",
+        "tp": 113,
+        "fp": 104,
+        "fn": 79,
+        "f1": 0.5525672371638142
+      }
+    ],
+    "rule": "Maximum 60-second event F1 on development seed only; same 2/3 vote and 90-second cooldown for all"
+  },
+  "development_seed": 260930101,
+  "validation_seeds": [
+    260930401,
+    260930402,
+    260930403
+  ],
+  "frequencies": [
+    5,
+    10,
+    15,
+    20
+  ],
+  "acceleration_levels": [
+    0.01,
+    0.03,
+    0.06,
+    0.09,
+    0.12,
+    0.15,
+    0.18,
+    0.2
+  ],
+  "deadline_seconds": 60,
+  "duration_seconds": 60,
+  "source_sha256": {
+    "scenario.py": "62da0f4a5cd9235eb1ad449df0df51d768c1e783874ccc5cee613d45d921b24c",
+    "detect.py": "576ebcf00a6505b02fa70b2b938dad301e6469fbe88530cfda8c6d3b10471e0e",
+    "control.py": "ad6fb1402ff8b31d325049de307d81550c9332efe218e077248a615b8381b091",
+    "core.py": "ada63bdc510e206c1a15ecb185c67875957ce8b2c41c3f07fef993c3a82a6e55",
+    "engine.py": "f81a9e345ce2c53e4e31c921cc2176361536ff5a37689172e00dfe9475e92a79",
+    "numerics.py": "00fa2f2b0ed82e7f2121f9a3354074d1fd629148659b208964b895b9be51037f"
+  }
+}

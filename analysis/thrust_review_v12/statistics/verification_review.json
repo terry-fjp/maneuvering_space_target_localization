@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "records": {
+    "main": 27648,
+    "service": 16128
+  },
+  "reference_regression_records": 4608,
+  "disjoint_targets": 64,
+  "bypass_noninterference": true,
+  "frozen_sources": true
+}

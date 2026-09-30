@@ -1,0 +1,29 @@
+[
+  {
+    "freq": 15,
+    "req": 500,
+    "n": 4288,
+    "position_relative_p95": 0.0969083586848951,
+    "velocity_relative_p95": 0.12898581966688835,
+    "decision_mismatch_percent": 0.0,
+    "compact_off_reference_on_percent": 0.0
+  },
+  {
+    "freq": 15,
+    "req": 1000,
+    "n": 4288,
+    "position_relative_p95": 0.2237108015743154,
+    "velocity_relative_p95": 0.24627199090632668,
+    "decision_mismatch_percent": 0.0,
+    "compact_off_reference_on_percent": 0.0
+  },
+  {
+    "freq": 15,
+    "req": 1500,
+    "n": 4288,
+    "position_relative_p95": 0.2199019655375044,
+    "velocity_relative_p95": 0.2615164364399456,
+    "decision_mismatch_percent": 0.0,
+    "compact_off_reference_on_percent": 0.0
+  }
+]

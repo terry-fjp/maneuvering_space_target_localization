@@ -1,0 +1,16 @@
+{
+  "catalogue_count": 10971,
+  "eligible_catalogue_count": 10922,
+  "selected": 64,
+  "epoch_utc": "2026-08-23T00:00:00Z",
+  "source_sha256": "9f7e04fc3ffbf6e0e0fc8d26fb80ceeebd9db1f0f896aeca2fb01a393414d9b6",
+  "source": "User-supplied archived Starlink TLE catalogue; not a live catalogue",
+  "observer": {
+    "altitude_km": 800,
+    "inclination_deg": 60,
+    "raan_deg": 0,
+    "argument_latitude_deg_at_epoch": 0
+  },
+  "target_selection": "16 distinct NORAD objects per initial slant-range stratum, 700-s in-range nominal arcs, chronological crossings per NORAD ID",
+  "propagation": "SGP4 initial osculating target state; observer and subsequent target two-body+J2; fixed TEME-oriented inertial axes"
+}

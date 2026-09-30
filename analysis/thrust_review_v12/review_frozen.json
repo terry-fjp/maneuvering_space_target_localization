@@ -1,0 +1,109 @@
+{
+  "rit": {
+    "500": {
+      "name": "RIT-38",
+      "control": "rit",
+      "req": 500,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 38
+    },
+    "1000": {
+      "name": "RIT-82",
+      "control": "rit",
+      "req": 1000,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 82
+    },
+    "1500": {
+      "name": "RIT-102",
+      "control": "rit",
+      "req": 1500,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 102
+    }
+  },
+  "constant": {
+    "500": {
+      "name": "Const-500-90",
+      "control": "constant",
+      "req": 500,
+      "detector": "MSC16",
+      "margin": 1,
+      "guard": 10,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30,
+      "constant": [
+        185.5592803955078,
+        10.287092208862305
+      ],
+      "quantile": 90.0
+    },
+    "1000": {
+      "name": "Const-1000-97.5",
+      "control": "constant",
+      "req": 1000,
+      "detector": "MSC16",
+      "margin": 0.75,
+      "guard": 2,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30,
+      "constant": [
+        594.73388671875,
+        21.277246475219727
+      ],
+      "quantile": 97.5
+    },
+    "1500": {
+      "name": "Const-1500-97.5",
+      "control": "constant",
+      "req": 1500,
+      "detector": "MSC16",
+      "margin": 1,
+      "guard": 5,
+      "period": 30,
+      "window": 1,
+      "phase": 0,
+      "gap": 30,
+      "constant": [
+        1023.5830688476562,
+        29.193857192993164
+      ],
+      "quantile": 97.5
+    }
+  },
+  "development_seed": 260930101,
+  "unseen_validation_seeds": [
+    261001401,
+    261001402,
+    261001403
+  ],
+  "selection_rule": "same 80% peak criterion and minimum mean work time",
+  "source_sha256": {
+    "control.py": "c9bef33a38e809fd34df3644a159aa6a0e3cb9ad6a0490ab695098f4901cd107",
+    "scenario.py": "1af5816804e217b0c23a15e00aea29e4b1d134592ffa4eeda01e7d2602c1b1dd",
+    "detect.py": "3e9db159b85fe440642bdda756be0bf26964a3cf773c0792adf1af5c0c9eae26",
+    "core.py": "ada63bdc510e206c1a15ecb185c67875957ce8b2c41c3f07fef993c3a82a6e55",
+    "engine.py": "f81a9e345ce2c53e4e31c921cc2176361536ff5a37689172e00dfe9475e92a79",
+    "numerics.py": "00fa2f2b0ed82e7f2121f9a3354074d1fd629148659b208964b895b9be51037f",
+    "configurations.py": "96ee61a710532f54efe12af2c29a625a255925bebaa46ae0d564b96b725aa9d3"
+  }
+}
