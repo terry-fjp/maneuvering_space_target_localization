@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-30",
+  "scientific_release": "AS-MSCGP-20260929-R2",
+  "packaging_revision": "github-slim1",
+  "package_profile": "slim GitHub repository",
+  "slim_package_checks": {
+    "integrity": {
+      "status": "PASS",
+      "scope": "All files listed in the regenerated slim-package SHA256SUMS.json"
+    },
+    "smoke": {
+      "status": "PASS",
+      "targets": 8,
+      "steps": 20
+    },
+    "fresh_original": {
+      "status": "PASS",
+      "records": 256,
+      "max_continuous_difference": 0.0
+    },
+    "fresh_held_out": {
+      "status": "PASS",
+      "records": 256,
+      "max_continuous_difference": 0.0
+    },
+    "missing_full_data_messages": {
+      "aggregate_check": "PASS",
+      "figure_entry_point": "PASS"
+    }
+  },
+  "source_full_package_validation": {
+    "aggregate_groups": 134,
+    "trajectory_records": 46464,
+    "manuscript_figures": 11,
+    "status": "PASS before slimming"
+  },
+  "omitted_from_git": [
+    "complete main per-trajectory result sweeps",
+    "revision validation, outage, development and forecast result sweeps",
+    "detection, timeline, bypass and trigger-source NPZ files",
+    "optional high-rate validation samples"
+  ],
+  "scope": "Local numerical and packaging checks. Not independent external replication, full-sweep rerun, onboard performance validation, or journal publication."
+}

@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "dataset": "unseen",
+  "frequency_hz": 5,
+  "seed": 261001401,
+  "task": [
+    1000,
+    100
+  ],
+  "evaluation_interval_s": [
+    30,
+    700
+  ],
+  "fresh_truth_and_measurements": true,
+  "regenerated_detector": true,
+  "matched_records": 256,
+  "continuous_metric_tolerance": {
+    "rtol": 1e-06,
+    "atol": 1e-05
+  },
+  "discrete_and_occupancy_tolerance": "exact",
+  "max_absolute_differences": {
+    "position_mse": 0.0,
+    "velocity_mse": 0.0,
+    "position_peak": 0.0,
+    "velocity_peak": 0.0
+  },
+  "results": [
+    {
+      "method": "MSC-GP",
+      "trajectories": 64,
+      "position_rmse_m": 94.92847498393964,
+      "velocity_rmse_m_s": 3.1319785167733283,
+      "position_peak_m": 772.518821493622,
+      "violating_trajectories": 0,
+      "mean_effective_ranging_s": 22.39375
+    },
+    {
+      "method": "Periodic",
+      "trajectories": 64,
+      "position_rmse_m": 56.72762413330925,
+      "velocity_rmse_m_s": 2.7008424171979355,
+      "position_peak_m": 489.71660187664173,
+      "violating_trajectories": 0,
+      "mean_effective_ranging_s": 32.484375
+    },
+    {
+      "method": "RIT-fine",
+      "trajectories": 64,
+      "position_rmse_m": 111.66811390303272,
+      "velocity_rmse_m_s": 3.3536747881803355,
+      "position_peak_m": 1275.5551926376922,
+      "violating_trajectories": 1,
+      "mean_effective_ranging_s": 21.8625
+    },
+    {
+      "method": "Constant",
+      "trajectories": 64,
+      "position_rmse_m": 107.1124474629047,
+      "velocity_rmse_m_s": 3.3594075237354533,
+      "position_peak_m": 1050.4842241314188,
+      "violating_trajectories": 1,
+      "mean_effective_ranging_s": 22.240625
+    }
+  ],
+  "scope": "Local fresh simulation versus frozen per-trajectory records; not an independent external replication or onboard timing benchmark."
+}
